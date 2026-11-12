@@ -1,0 +1,13 @@
+# ninja log v7
+59	2074	8162232896163136	CMakeFiles/lab8.dir/auction.cpp.obj	b2af0fe3247e90c7
+83	2094	8162232896403826	CMakeFiles/lab8.dir/bidder.cpp.obj	5eb5291faa40dd51
+71	2111	8162232896310756	CMakeFiles/lab8.dir/auctioneer.cpp.obj	58aa217476504a6d
+38	2167	8162232895958880	CMakeFiles/lab8.dir/main.cpp.obj	f203cc8defe2359e
+50	1148	8162234352598606	CMakeFiles/lab8.dir/auctioneer.cpp.obj	58aa217476504a6d
+52	1063	8162234584139151	CMakeFiles/lab8.dir/auctioneer.cpp.obj	58aa217476504a6d
+81	1206	8162239745539133	CMakeFiles/lab8.dir/auction.cpp.obj	b2af0fe3247e90c7
+105	1211	8162239745784339	CMakeFiles/lab8.dir/bidder.cpp.obj	5eb5291faa40dd51
+93	1301	8162239745656703	CMakeFiles/lab8.dir/auctioneer.cpp.obj	58aa217476504a6d
+60	1345	8162239745341437	CMakeFiles/lab8.dir/main.cpp.obj	f203cc8defe2359e
+38	1027	8162241501453150	CMakeFiles/lab8.dir/bidder.cpp.obj	5eb5291faa40dd51
+1028	1325	8162241511396228	lab8.exe	db80c9bc6f40b5b0

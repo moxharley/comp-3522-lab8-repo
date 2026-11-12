@@ -46,4 +46,12 @@ public:
 
     // TODO: add any getters you need (e.g. getHighestBid(), getHighestBidder())
     // so Auction can print the auction result and bidder summary.
+
+    double get_highest_bid() {
+        return highest_bid;
+    }
+
+    Bidder* get_highest_bidder() {
+        return highest_bidder;
+    }
 };

@@ -39,4 +39,8 @@ public:
         os << bidder.name;
         return os;
     }
+
+    string get_name() {
+        return name;
+    }
 };
