@@ -3501,3 +3501,8 @@
 {"t":1794522476301,"file":"README.md","type":"file-open"}
 {"t":1794522480407,"file":"main.cpp","type":"file-open"}
 {"t":1794522493215,"file":"README.md","type":"file-open"}
+{"t":1794522547022,"file":"README.md","type":"window-blur"}
+{"t":1794522547133,"file":"README.md","type":"window-focus"}
+{"t":1794522549548,"file":"README.md","type":"window-blur"}
+{"t":1794522561993,"file":"README.md","type":"window-focus"}
+{"t":1794522563415,"file":"","type":"session-end"}

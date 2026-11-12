@@ -26,6 +26,7 @@ void Auctioneer::accept_bid(double bid, Bidder *bidder) {
         highest_bid = 100;
         highest_bidder = NULL;
         notify_bidders();
+        return;
     } else {
         if (highest_bidder == NULL) {
             highest_bidders_name = "Starting bid";
