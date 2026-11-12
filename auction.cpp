@@ -11,16 +11,11 @@ Auction::Auction(vector<Bidder *> bidders) {
 }
 
 void Auction::simulate_auction(string item, double start_price) {
-    // TODO: announce the item and starting price, then place the opening
-    // bid via auctioneer.accept_bid(start_price) to kick off the chain of
-    // notifications (see README for the observer flow this triggers).
-    // Once the chain settles, print the winner (auctioneer's highest
-    // bidder/bid) and a per-bidder summary of each bidder's highest bid.
     cout << "Auctioning " << item << " at starting price $" << start_price << endl;
-    auctioneer.accept_bid(start_price);
+    auctioneer.accept_bid(start_price, nullptr);
     
-    string winner_name = "PH";
-    double winning_bid = 100;
+    Bidder *winner = auctioneer.get_highest_bidder();
+    double winning_bid = auctioneer.get_highest_bid();
 
-    cout << fixed << setprecision(2) << endl << "The " << item << " goes to " << winner_name << " for $" << winning_bid << endl;
+    cout << fixed << setprecision(2) << endl << "The " << item << " goes to " << winner->get_name() << " for $" << winning_bid << endl;
 }
