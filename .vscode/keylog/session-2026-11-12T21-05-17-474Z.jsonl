@@ -3074,3 +3074,430 @@
 {"t":1794521951059,"file":"auctioneer.cpp","type":"file-save"}
 {"t":1794521952883,"file":"auctioneer.cpp","type":"window-blur"}
 {"t":1794521988833,"file":"auctioneer.cpp","type":"window-focus"}
+{"t":1794522025854,"file":"auction.cpp","type":"insert","rangeStart":772,"rangeEnd":772,"text":"\r\n    ","textLength":6,"docVersion":446}
+{"t":1794522026886,"file":"auction.cpp","type":"insert","rangeStart":778,"rangeEnd":778,"text":"s","textLength":1,"docVersion":447}
+{"t":1794522027079,"file":"auction.cpp","type":"insert","rangeStart":779,"rangeEnd":779,"text":"t","textLength":1,"docVersion":448}
+{"t":1794522027262,"file":"auction.cpp","type":"insert","rangeStart":780,"rangeEnd":780,"text":"r","textLength":1,"docVersion":449}
+{"t":1794522027365,"file":"auction.cpp","type":"insert","rangeStart":781,"rangeEnd":781,"text":"i","textLength":1,"docVersion":450}
+{"t":1794522027429,"file":"auction.cpp","type":"insert","rangeStart":782,"rangeEnd":782,"text":"n","textLength":1,"docVersion":451}
+{"t":1794522027521,"file":"auction.cpp","type":"insert","rangeStart":783,"rangeEnd":783,"text":"g","textLength":1,"docVersion":452}
+{"t":1794522027693,"file":"auction.cpp","type":"insert","rangeStart":784,"rangeEnd":784,"text":" ","textLength":1,"docVersion":453}
+{"t":1794522033320,"file":"README.md","type":"copy-command","size":40}
+{"t":1794522036416,"file":"auction.cpp","type":"insert","rangeStart":772,"rangeEnd":772,"text":"\r\n    ","textLength":6,"docVersion":454}
+{"t":1794522036578,"file":"auction.cpp","type":"insert","rangeStart":778,"rangeEnd":778,"text":"\r\n    ","textLength":6,"docVersion":455}
+{"t":1794522036578,"file":"auction.cpp","type":"delete","rangeStart":774,"rangeEnd":778,"text":"","textLength":0,"docVersion":455}
+{"t":1794522038228,"file":"auction.cpp","type":"delete","rangeStart":776,"rangeEnd":780,"text":"","textLength":0,"docVersion":456}
+{"t":1794522038228,"file":"auction.cpp","type":"insert","rangeStart":774,"rangeEnd":774,"text":"    ","textLength":4,"docVersion":456}
+{"t":1794522038523,"file":"auction.cpp","type":"insert","rangeStart":778,"rangeEnd":778,"text":"/","textLength":1,"docVersion":457}
+{"t":1794522038655,"file":"auction.cpp","type":"insert","rangeStart":779,"rangeEnd":779,"text":"/","textLength":1,"docVersion":458}
+{"t":1794522038985,"file":"auction.cpp","type":"insert","rangeStart":780,"rangeEnd":780,"text":" ","textLength":1,"docVersion":459}
+{"t":1794522039190,"file":"auction.cpp","type":"paste-command","size":40}
+{"t":1794522039196,"file":"auction.cpp","type":"insert","rangeStart":781,"rangeEnd":781,"text":"The Antique Vase goes to Priya for $5718","textLength":40,"docVersion":460,"source":"paste-readme"}
+{"t":1794522053390,"file":"auction.cpp","type":"insert","rangeStart":836,"rangeEnd":836,"text":"s","textLength":1,"docVersion":461}
+{"t":1794522054138,"file":"auction.cpp","type":"insert","rangeStart":837,"rangeEnd":837,"text":"t","textLength":1,"docVersion":462}
+{"t":1794522054462,"file":"auction.cpp","type":"delete","rangeStart":837,"rangeEnd":838,"text":"","textLength":0,"docVersion":463}
+{"t":1794522054634,"file":"auction.cpp","type":"delete","rangeStart":836,"rangeEnd":837,"text":"","textLength":0,"docVersion":464}
+{"t":1794522079839,"file":"auction.cpp","type":"insert","rangeStart":836,"rangeEnd":836,"text":"w","textLength":1,"docVersion":465}
+{"t":1794522079992,"file":"auction.cpp","type":"insert","rangeStart":837,"rangeEnd":837,"text":"i","textLength":1,"docVersion":466}
+{"t":1794522080083,"file":"auction.cpp","type":"insert","rangeStart":838,"rangeEnd":838,"text":"n","textLength":1,"docVersion":467}
+{"t":1794522080175,"file":"auction.cpp","type":"insert","rangeStart":839,"rangeEnd":839,"text":"n","textLength":1,"docVersion":468}
+{"t":1794522080430,"file":"auction.cpp","type":"insert","rangeStart":840,"rangeEnd":840,"text":"e","textLength":1,"docVersion":469}
+{"t":1794522080933,"file":"auction.cpp","type":"insert","rangeStart":841,"rangeEnd":841,"text":"r","textLength":1,"docVersion":470}
+{"t":1794522081672,"file":"auction.cpp","type":"insert","rangeStart":842,"rangeEnd":842,"text":"s","textLength":1,"docVersion":471}
+{"t":1794522081925,"file":"auction.cpp","type":"insert","rangeStart":843,"rangeEnd":843,"text":"_","textLength":1,"docVersion":472}
+{"t":1794522082144,"file":"auction.cpp","type":"insert","rangeStart":844,"rangeEnd":844,"text":"n","textLength":1,"docVersion":473}
+{"t":1794522082219,"file":"auction.cpp","type":"insert","rangeStart":845,"rangeEnd":845,"text":"a","textLength":1,"docVersion":474}
+{"t":1794522082316,"file":"auction.cpp","type":"insert","rangeStart":846,"rangeEnd":846,"text":"m","textLength":1,"docVersion":475}
+{"t":1794522082382,"file":"auction.cpp","type":"insert","rangeStart":847,"rangeEnd":847,"text":"e","textLength":1,"docVersion":476}
+{"t":1794522083129,"file":"auction.cpp","type":"insert","rangeStart":848,"rangeEnd":848,"text":" ","textLength":1,"docVersion":477}
+{"t":1794522083239,"file":"auction.cpp","type":"insert","rangeStart":849,"rangeEnd":849,"text":"=","textLength":1,"docVersion":478}
+{"t":1794522083342,"file":"auction.cpp","type":"insert","rangeStart":850,"rangeEnd":850,"text":" ","textLength":1,"docVersion":479}
+{"t":1794522084425,"file":"auction.cpp","type":"insert","rangeStart":851,"rangeEnd":851,"text":"h","textLength":1,"docVersion":480}
+{"t":1794522084492,"file":"auction.cpp","type":"insert","rangeStart":852,"rangeEnd":852,"text":"i","textLength":1,"docVersion":481}
+{"t":1794522084577,"file":"auction.cpp","type":"insert","rangeStart":853,"rangeEnd":853,"text":"g","textLength":1,"docVersion":482}
+{"t":1794522084689,"file":"auction.cpp","type":"insert","rangeStart":854,"rangeEnd":854,"text":"h","textLength":1,"docVersion":483}
+{"t":1794522084933,"file":"auction.cpp","type":"insert","rangeStart":855,"rangeEnd":855,"text":"e","textLength":1,"docVersion":484}
+{"t":1794522085066,"file":"auction.cpp","type":"insert","rangeStart":856,"rangeEnd":856,"text":"s","textLength":1,"docVersion":485}
+{"t":1794522085136,"file":"auction.cpp","type":"insert","rangeStart":857,"rangeEnd":857,"text":"t","textLength":1,"docVersion":486}
+{"t":1794522086348,"file":"auction.cpp","type":"insert","rangeStart":858,"rangeEnd":858,"text":"_","textLength":1,"docVersion":487}
+{"t":1794522086935,"file":"auction.cpp","type":"insert","rangeStart":859,"rangeEnd":859,"text":"b","textLength":1,"docVersion":488}
+{"t":1794522087026,"file":"auction.cpp","type":"insert","rangeStart":860,"rangeEnd":860,"text":"i","textLength":1,"docVersion":489}
+{"t":1794522087102,"file":"auction.cpp","type":"insert","rangeStart":861,"rangeEnd":861,"text":"d","textLength":1,"docVersion":490}
+{"t":1794522087254,"file":"auction.cpp","type":"insert","rangeStart":862,"rangeEnd":862,"text":"d","textLength":1,"docVersion":491}
+{"t":1794522087331,"file":"auction.cpp","type":"insert","rangeStart":863,"rangeEnd":863,"text":"e","textLength":1,"docVersion":492}
+{"t":1794522087442,"file":"auction.cpp","type":"insert","rangeStart":864,"rangeEnd":864,"text":"r","textLength":1,"docVersion":493}
+{"t":1794522091961,"file":"auction.cpp","type":"delete","rangeStart":864,"rangeEnd":865,"text":"","textLength":0,"docVersion":494}
+{"t":1794522092493,"file":"auction.cpp","type":"delete","rangeStart":863,"rangeEnd":864,"text":"","textLength":0,"docVersion":495}
+{"t":1794522092524,"file":"auction.cpp","type":"delete","rangeStart":862,"rangeEnd":863,"text":"","textLength":0,"docVersion":496}
+{"t":1794522092554,"file":"auction.cpp","type":"delete","rangeStart":861,"rangeEnd":862,"text":"","textLength":0,"docVersion":497}
+{"t":1794522092586,"file":"auction.cpp","type":"delete","rangeStart":860,"rangeEnd":861,"text":"","textLength":0,"docVersion":498}
+{"t":1794522092777,"file":"auction.cpp","type":"delete","rangeStart":859,"rangeEnd":860,"text":"","textLength":0,"docVersion":499}
+{"t":1794522092969,"file":"auction.cpp","type":"delete","rangeStart":858,"rangeEnd":859,"text":"","textLength":0,"docVersion":500}
+{"t":1794522093131,"file":"auction.cpp","type":"delete","rangeStart":857,"rangeEnd":858,"text":"","textLength":0,"docVersion":501}
+{"t":1794522093279,"file":"auction.cpp","type":"delete","rangeStart":856,"rangeEnd":857,"text":"","textLength":0,"docVersion":502}
+{"t":1794522093518,"file":"auction.cpp","type":"delete","rangeStart":855,"rangeEnd":856,"text":"","textLength":0,"docVersion":503}
+{"t":1794522093680,"file":"auction.cpp","type":"delete","rangeStart":854,"rangeEnd":855,"text":"","textLength":0,"docVersion":504}
+{"t":1794522093831,"file":"auction.cpp","type":"delete","rangeStart":853,"rangeEnd":854,"text":"","textLength":0,"docVersion":505}
+{"t":1794522093988,"file":"auction.cpp","type":"delete","rangeStart":852,"rangeEnd":853,"text":"","textLength":0,"docVersion":506}
+{"t":1794522094149,"file":"auction.cpp","type":"delete","rangeStart":851,"rangeEnd":852,"text":"","textLength":0,"docVersion":507}
+{"t":1794522099303,"file":"auctioneer.hpp","type":"insert","rangeStart":1581,"rangeEnd":1581,"text":"\r\n    ","textLength":6,"docVersion":182}
+{"t":1794522099535,"file":"auctioneer.hpp","type":"insert","rangeStart":1587,"rangeEnd":1587,"text":"\r\n    ","textLength":6,"docVersion":183}
+{"t":1794522099535,"file":"auctioneer.hpp","type":"delete","rangeStart":1583,"rangeEnd":1587,"text":"","textLength":0,"docVersion":183}
+{"t":1794522104525,"file":"auctioneer.hpp","type":"insert","rangeStart":1589,"rangeEnd":1589,"text":"v","textLength":1,"docVersion":184}
+{"t":1794522104696,"file":"auctioneer.hpp","type":"insert","rangeStart":1590,"rangeEnd":1590,"text":"e","textLength":1,"docVersion":185}
+{"t":1794522104890,"file":"auctioneer.hpp","type":"insert","rangeStart":1591,"rangeEnd":1591,"text":"c","textLength":1,"docVersion":186}
+{"t":1794522105112,"file":"auctioneer.hpp","type":"insert","rangeStart":1592,"rangeEnd":1592,"text":"t","textLength":1,"docVersion":187}
+{"t":1794522105188,"file":"auctioneer.hpp","type":"insert","rangeStart":1593,"rangeEnd":1593,"text":"o","textLength":1,"docVersion":188}
+{"t":1794522105284,"file":"auctioneer.hpp","type":"insert","rangeStart":1594,"rangeEnd":1594,"text":"r","textLength":1,"docVersion":189}
+{"t":1794522105898,"file":"auctioneer.hpp","type":"insert","rangeStart":1595,"rangeEnd":1595,"text":"<","textLength":1,"docVersion":190}
+{"t":1794522106163,"file":"auctioneer.hpp","type":"insert","rangeStart":1596,"rangeEnd":1596,"text":"B","textLength":1,"docVersion":191}
+{"t":1794522106309,"file":"auctioneer.hpp","type":"insert","rangeStart":1597,"rangeEnd":1597,"text":"i","textLength":1,"docVersion":192}
+{"t":1794522106405,"file":"auctioneer.hpp","type":"insert","rangeStart":1598,"rangeEnd":1598,"text":"d","textLength":1,"docVersion":193}
+{"t":1794522106562,"file":"auctioneer.hpp","type":"insert","rangeStart":1599,"rangeEnd":1599,"text":"d","textLength":1,"docVersion":194}
+{"t":1794522106638,"file":"auctioneer.hpp","type":"insert","rangeStart":1600,"rangeEnd":1600,"text":"e","textLength":1,"docVersion":195}
+{"t":1794522106765,"file":"auctioneer.hpp","type":"insert","rangeStart":1601,"rangeEnd":1601,"text":"r","textLength":1,"docVersion":196}
+{"t":1794522107040,"file":"auctioneer.hpp","type":"insert","rangeStart":1602,"rangeEnd":1602,"text":" ","textLength":1,"docVersion":197}
+{"t":1794522107462,"file":"auctioneer.hpp","type":"insert","rangeStart":1603,"rangeEnd":1603,"text":"*","textLength":1,"docVersion":198}
+{"t":1794522107810,"file":"auctioneer.hpp","type":"insert","rangeStart":1604,"rangeEnd":1604,"text":">","textLength":1,"docVersion":199}
+{"t":1794522108414,"file":"auctioneer.hpp","type":"insert","rangeStart":1605,"rangeEnd":1605,"text":" ","textLength":1,"docVersion":200}
+{"t":1794522109305,"file":"auctioneer.hpp","type":"insert","rangeStart":1606,"rangeEnd":1606,"text":"g","textLength":1,"docVersion":201}
+{"t":1794522109365,"file":"auctioneer.hpp","type":"insert","rangeStart":1607,"rangeEnd":1607,"text":"e","textLength":1,"docVersion":202}
+{"t":1794522109479,"file":"auctioneer.hpp","type":"insert","rangeStart":1608,"rangeEnd":1608,"text":"t","textLength":1,"docVersion":203}
+{"t":1794522109537,"file":"auctioneer.hpp","type":"insert","rangeStart":1609,"rangeEnd":1609,"text":" ","textLength":1,"docVersion":204}
+{"t":1794522110593,"file":"auctioneer.hpp","type":"insert","rangeStart":1610,"rangeEnd":1610,"text":"b","textLength":1,"docVersion":205}
+{"t":1794522110986,"file":"auctioneer.hpp","type":"delete","rangeStart":1610,"rangeEnd":1611,"text":"","textLength":0,"docVersion":206}
+{"t":1794522111138,"file":"auctioneer.hpp","type":"delete","rangeStart":1609,"rangeEnd":1610,"text":"","textLength":0,"docVersion":207}
+{"t":1794522111367,"file":"auctioneer.hpp","type":"insert","rangeStart":1609,"rangeEnd":1609,"text":"_","textLength":1,"docVersion":208}
+{"t":1794522111605,"file":"auctioneer.hpp","type":"insert","rangeStart":1610,"rangeEnd":1610,"text":"b","textLength":1,"docVersion":209}
+{"t":1794522111707,"file":"auctioneer.hpp","type":"insert","rangeStart":1611,"rangeEnd":1611,"text":"i","textLength":1,"docVersion":210}
+{"t":1794522111787,"file":"auctioneer.hpp","type":"insert","rangeStart":1612,"rangeEnd":1612,"text":"d","textLength":1,"docVersion":211}
+{"t":1794522111958,"file":"auctioneer.hpp","type":"insert","rangeStart":1613,"rangeEnd":1613,"text":"d","textLength":1,"docVersion":212}
+{"t":1794522112034,"file":"auctioneer.hpp","type":"insert","rangeStart":1614,"rangeEnd":1614,"text":"e","textLength":1,"docVersion":213}
+{"t":1794522112136,"file":"auctioneer.hpp","type":"insert","rangeStart":1615,"rangeEnd":1615,"text":"r","textLength":1,"docVersion":214}
+{"t":1794522112294,"file":"auctioneer.hpp","type":"insert","rangeStart":1616,"rangeEnd":1616,"text":"s","textLength":1,"docVersion":215}
+{"t":1794522113895,"file":"auctioneer.hpp","type":"insert","rangeStart":1617,"rangeEnd":1617,"text":"()","textLength":2,"docVersion":216}
+{"t":1794522114756,"file":"auctioneer.hpp","type":"insert","rangeStart":1619,"rangeEnd":1619,"text":" ","textLength":1,"docVersion":217}
+{"t":1794522114965,"file":"auctioneer.hpp","type":"insert","rangeStart":1620,"rangeEnd":1620,"text":"{}","textLength":2,"docVersion":218}
+{"t":1794522115415,"file":"auctioneer.hpp","type":"insert","rangeStart":1621,"rangeEnd":1621,"text":"\r\n        \r\n    ","textLength":16,"docVersion":219}
+{"t":1794522115968,"file":"auctioneer.hpp","type":"insert","rangeStart":1631,"rangeEnd":1631,"text":"r","textLength":1,"docVersion":220}
+{"t":1794522116054,"file":"auctioneer.hpp","type":"insert","rangeStart":1632,"rangeEnd":1632,"text":"e","textLength":1,"docVersion":221}
+{"t":1794522116191,"file":"auctioneer.hpp","type":"insert","rangeStart":1633,"rangeEnd":1633,"text":"t","textLength":1,"docVersion":222}
+{"t":1794522116871,"file":"auctioneer.hpp","type":"insert","rangeStart":1634,"rangeEnd":1634,"text":"u","textLength":1,"docVersion":223}
+{"t":1794522116966,"file":"auctioneer.hpp","type":"insert","rangeStart":1635,"rangeEnd":1635,"text":"r","textLength":1,"docVersion":224}
+{"t":1794522117079,"file":"auctioneer.hpp","type":"insert","rangeStart":1636,"rangeEnd":1636,"text":"n","textLength":1,"docVersion":225}
+{"t":1794522117145,"file":"auctioneer.hpp","type":"insert","rangeStart":1637,"rangeEnd":1637,"text":" ","textLength":1,"docVersion":226}
+{"t":1794522127904,"file":"auctioneer.hpp","type":"delete","rangeStart":1583,"rangeEnd":1645,"text":"","textLength":0,"docVersion":227}
+{"t":1794522128297,"file":"auctioneer.hpp","type":"delete","rangeStart":1581,"rangeEnd":1583,"text":"","textLength":0,"docVersion":228}
+{"t":1794522134042,"file":"auction.cpp","type":"insert","rangeStart":851,"rangeEnd":851,"text":"g","textLength":1,"docVersion":508}
+{"t":1794522134144,"file":"auction.cpp","type":"insert","rangeStart":852,"rangeEnd":852,"text":"e","textLength":1,"docVersion":509}
+{"t":1794522134256,"file":"auction.cpp","type":"insert","rangeStart":853,"rangeEnd":853,"text":"t","textLength":1,"docVersion":510}
+{"t":1794522135753,"file":"auction.cpp","type":"delete","rangeStart":853,"rangeEnd":854,"text":"","textLength":0,"docVersion":511}
+{"t":1794522135911,"file":"auction.cpp","type":"delete","rangeStart":852,"rangeEnd":853,"text":"","textLength":0,"docVersion":512}
+{"t":1794522136058,"file":"auction.cpp","type":"delete","rangeStart":851,"rangeEnd":852,"text":"","textLength":0,"docVersion":513}
+{"t":1794522136655,"file":"auction.cpp","type":"insert","rangeStart":851,"rangeEnd":851,"text":"a","textLength":1,"docVersion":514}
+{"t":1794522136795,"file":"auction.cpp","type":"insert","rangeStart":852,"rangeEnd":852,"text":"u","textLength":1,"docVersion":515}
+{"t":1794522136918,"file":"auction.cpp","type":"insert","rangeStart":853,"rangeEnd":853,"text":"c","textLength":1,"docVersion":516}
+{"t":1794522137116,"file":"auction.cpp","type":"insert","rangeStart":854,"rangeEnd":854,"text":"t","textLength":1,"docVersion":517}
+{"t":1794522137166,"file":"auction.cpp","type":"insert","rangeStart":855,"rangeEnd":855,"text":"i","textLength":1,"docVersion":518}
+{"t":1794522137242,"file":"auction.cpp","type":"insert","rangeStart":856,"rangeEnd":856,"text":"o","textLength":1,"docVersion":519}
+{"t":1794522137384,"file":"auction.cpp","type":"insert","rangeStart":857,"rangeEnd":857,"text":"n","textLength":1,"docVersion":520}
+{"t":1794522137490,"file":"auction.cpp","type":"insert","rangeStart":858,"rangeEnd":858,"text":"e","textLength":1,"docVersion":521}
+{"t":1794522137694,"file":"auction.cpp","type":"insert","rangeStart":859,"rangeEnd":859,"text":"e","textLength":1,"docVersion":522}
+{"t":1794522137765,"file":"auction.cpp","type":"insert","rangeStart":860,"rangeEnd":860,"text":"r","textLength":1,"docVersion":523}
+{"t":1794522138459,"file":"auction.cpp","type":"insert","rangeStart":861,"rangeEnd":861,"text":".","textLength":1,"docVersion":524}
+{"t":1794522138657,"file":"auction.cpp","type":"insert","rangeStart":862,"rangeEnd":862,"text":"g","textLength":1,"docVersion":525}
+{"t":1794522138738,"file":"auction.cpp","type":"insert","rangeStart":863,"rangeEnd":863,"text":"e","textLength":1,"docVersion":526}
+{"t":1794522138825,"file":"auction.cpp","type":"insert","rangeStart":864,"rangeEnd":864,"text":"t","textLength":1,"docVersion":527}
+{"t":1794522139058,"file":"auction.cpp","type":"insert","rangeStart":865,"rangeEnd":865,"text":"_","textLength":1,"docVersion":528}
+{"t":1794522139317,"file":"auction.cpp","type":"insert","rangeStart":866,"rangeEnd":866,"text":"h","textLength":1,"docVersion":529}
+{"t":1794522139387,"file":"auction.cpp","type":"insert","rangeStart":867,"rangeEnd":867,"text":"i","textLength":1,"docVersion":530}
+{"t":1794522139447,"file":"auction.cpp","type":"insert","rangeStart":868,"rangeEnd":868,"text":"g","textLength":1,"docVersion":531}
+{"t":1794522139553,"file":"auction.cpp","type":"insert","rangeStart":869,"rangeEnd":869,"text":"h","textLength":1,"docVersion":532}
+{"t":1794522139692,"file":"auction.cpp","type":"insert","rangeStart":870,"rangeEnd":870,"text":"e","textLength":1,"docVersion":533}
+{"t":1794522139809,"file":"auction.cpp","type":"insert","rangeStart":871,"rangeEnd":871,"text":"s","textLength":1,"docVersion":534}
+{"t":1794522139872,"file":"auction.cpp","type":"insert","rangeStart":872,"rangeEnd":872,"text":"t","textLength":1,"docVersion":535}
+{"t":1794522140517,"file":"auction.cpp","type":"insert","rangeStart":873,"rangeEnd":873,"text":"_","textLength":1,"docVersion":536}
+{"t":1794522140740,"file":"auction.cpp","type":"insert","rangeStart":874,"rangeEnd":874,"text":"v","textLength":1,"docVersion":537}
+{"t":1794522140837,"file":"auction.cpp","type":"insert","rangeStart":875,"rangeEnd":875,"text":"i","textLength":1,"docVersion":538}
+{"t":1794522140978,"file":"auction.cpp","type":"insert","rangeStart":876,"rangeEnd":876,"text":"d","textLength":1,"docVersion":539}
+{"t":1794522141141,"file":"auction.cpp","type":"insert","rangeStart":877,"rangeEnd":877,"text":"d","textLength":1,"docVersion":540}
+{"t":1794522141207,"file":"auction.cpp","type":"insert","rangeStart":878,"rangeEnd":878,"text":"e","textLength":1,"docVersion":541}
+{"t":1794522141334,"file":"auction.cpp","type":"insert","rangeStart":879,"rangeEnd":879,"text":"r","textLength":1,"docVersion":542}
+{"t":1794522141764,"file":"auction.cpp","type":"delete","rangeStart":879,"rangeEnd":880,"text":"","textLength":0,"docVersion":543}
+{"t":1794522141921,"file":"auction.cpp","type":"delete","rangeStart":878,"rangeEnd":879,"text":"","textLength":0,"docVersion":544}
+{"t":1794522142059,"file":"auction.cpp","type":"delete","rangeStart":877,"rangeEnd":878,"text":"","textLength":0,"docVersion":545}
+{"t":1794522142196,"file":"auction.cpp","type":"delete","rangeStart":876,"rangeEnd":877,"text":"","textLength":0,"docVersion":546}
+{"t":1794522142343,"file":"auction.cpp","type":"delete","rangeStart":875,"rangeEnd":876,"text":"","textLength":0,"docVersion":547}
+{"t":1794522142486,"file":"auction.cpp","type":"delete","rangeStart":874,"rangeEnd":875,"text":"","textLength":0,"docVersion":548}
+{"t":1794522142522,"file":"auction.cpp","type":"insert","rangeStart":874,"rangeEnd":874,"text":"b","textLength":1,"docVersion":549}
+{"t":1794522142684,"file":"auction.cpp","type":"insert","rangeStart":875,"rangeEnd":875,"text":"i","textLength":1,"docVersion":550}
+{"t":1794522142801,"file":"auction.cpp","type":"insert","rangeStart":876,"rangeEnd":876,"text":"d","textLength":1,"docVersion":551}
+{"t":1794522142968,"file":"auction.cpp","type":"insert","rangeStart":877,"rangeEnd":877,"text":"d","textLength":1,"docVersion":552}
+{"t":1794522143070,"file":"auction.cpp","type":"insert","rangeStart":878,"rangeEnd":878,"text":"e","textLength":1,"docVersion":553}
+{"t":1794522143152,"file":"auction.cpp","type":"insert","rangeStart":879,"rangeEnd":879,"text":"r","textLength":1,"docVersion":554}
+{"t":1794522143568,"file":"auction.cpp","type":"insert","rangeStart":880,"rangeEnd":880,"text":"()","textLength":2,"docVersion":555}
+{"t":1794522143598,"file":"auction.cpp","type":"replace","rangeStart":881,"rangeEnd":882,"text":")","textLength":1,"docVersion":556}
+{"t":1794522146050,"file":"auction.cpp","type":"insert","rangeStart":882,"rangeEnd":882,"text":".","textLength":1,"docVersion":557}
+{"t":1794522146207,"file":"auction.cpp","type":"insert","rangeStart":883,"rangeEnd":883,"text":"g","textLength":1,"docVersion":558}
+{"t":1794522146293,"file":"auction.cpp","type":"insert","rangeStart":884,"rangeEnd":884,"text":"e","textLength":1,"docVersion":559}
+{"t":1794522146391,"file":"auction.cpp","type":"insert","rangeStart":885,"rangeEnd":885,"text":"t","textLength":1,"docVersion":560}
+{"t":1794522147283,"file":"auction.cpp","type":"delete","rangeStart":885,"rangeEnd":886,"text":"","textLength":0,"docVersion":561}
+{"t":1794522147444,"file":"auction.cpp","type":"delete","rangeStart":884,"rangeEnd":885,"text":"","textLength":0,"docVersion":562}
+{"t":1794522147606,"file":"auction.cpp","type":"delete","rangeStart":883,"rangeEnd":884,"text":"","textLength":0,"docVersion":563}
+{"t":1794522147822,"file":"auction.cpp","type":"delete","rangeStart":882,"rangeEnd":883,"text":"","textLength":0,"docVersion":564}
+{"t":1794522148311,"file":"auction.cpp","type":"insert","rangeStart":882,"rangeEnd":882,"text":";","textLength":1,"docVersion":565}
+{"t":1794522149044,"file":"auction.cpp","type":"delete","rangeStart":882,"rangeEnd":883,"text":"","textLength":0,"docVersion":566}
+{"t":1794522149644,"file":"auction.cpp","type":"insert","rangeStart":882,"rangeEnd":882,"text":".","textLength":1,"docVersion":567}
+{"t":1794522149857,"file":"auction.cpp","type":"insert","rangeStart":883,"rangeEnd":883,"text":"g","textLength":1,"docVersion":568}
+{"t":1794522149950,"file":"auction.cpp","type":"insert","rangeStart":884,"rangeEnd":884,"text":"e","textLength":1,"docVersion":569}
+{"t":1794522150038,"file":"auction.cpp","type":"insert","rangeStart":885,"rangeEnd":885,"text":"t","textLength":1,"docVersion":570}
+{"t":1794522150901,"file":"auction.cpp","type":"insert","rangeStart":886,"rangeEnd":886,"text":"_","textLength":1,"docVersion":571}
+{"t":1794522151106,"file":"auction.cpp","type":"insert","rangeStart":887,"rangeEnd":887,"text":"n","textLength":1,"docVersion":572}
+{"t":1794522151173,"file":"auction.cpp","type":"insert","rangeStart":888,"rangeEnd":888,"text":"a","textLength":1,"docVersion":573}
+{"t":1794522151284,"file":"auction.cpp","type":"insert","rangeStart":889,"rangeEnd":889,"text":"m","textLength":1,"docVersion":574}
+{"t":1794522151340,"file":"auction.cpp","type":"insert","rangeStart":890,"rangeEnd":890,"text":"e","textLength":1,"docVersion":575}
+{"t":1794522151599,"file":"auction.cpp","type":"insert","rangeStart":891,"rangeEnd":891,"text":"()","textLength":2,"docVersion":576}
+{"t":1794522151685,"file":"auction.cpp","type":"replace","rangeStart":892,"rangeEnd":893,"text":")","textLength":1,"docVersion":577}
+{"t":1794522152525,"file":"auction.cpp","type":"insert","rangeStart":893,"rangeEnd":893,"text":";","textLength":1,"docVersion":578}
+{"t":1794522167984,"file":"auction.cpp","type":"delete","rangeStart":861,"rangeEnd":862,"text":"","textLength":0,"docVersion":579}
+{"t":1794522168218,"file":"auction.cpp","type":"insert","rangeStart":861,"rangeEnd":861,"text":"_","textLength":1,"docVersion":580}
+{"t":1794522168797,"file":"auction.cpp","type":"insert","rangeStart":862,"rangeEnd":862,"text":"-","textLength":1,"docVersion":581}
+{"t":1794522169064,"file":"auction.cpp","type":"delete","rangeStart":862,"rangeEnd":863,"text":"","textLength":0,"docVersion":582}
+{"t":1794522169236,"file":"auction.cpp","type":"delete","rangeStart":861,"rangeEnd":862,"text":"","textLength":0,"docVersion":583}
+{"t":1794522169313,"file":"auction.cpp","type":"insert","rangeStart":861,"rangeEnd":861,"text":"-","textLength":1,"docVersion":584}
+{"t":1794522169618,"file":"auction.cpp","type":"insert","rangeStart":862,"rangeEnd":862,"text":">","textLength":1,"docVersion":585}
+{"t":1794522173989,"file":"auction.cpp","type":"delete","rangeStart":883,"rangeEnd":884,"text":"","textLength":0,"docVersion":586}
+{"t":1794522174181,"file":"auction.cpp","type":"insert","rangeStart":883,"rangeEnd":883,"text":"-","textLength":1,"docVersion":587}
+{"t":1794522174409,"file":"auction.cpp","type":"insert","rangeStart":884,"rangeEnd":884,"text":">","textLength":1,"docVersion":588}
+{"t":1794522188150,"file":"auction.cpp","type":"delete","rangeStart":829,"rangeEnd":851,"text":"","textLength":0,"docVersion":589}
+{"t":1794522191382,"file":"auction.cpp","type":"delete","rangeStart":861,"rangeEnd":873,"text":"","textLength":0,"docVersion":590}
+{"t":1794522197387,"file":"auction.cpp","type":"insert","rangeStart":829,"rangeEnd":829,"text":"B","textLength":1,"docVersion":591}
+{"t":1794522197640,"file":"auction.cpp","type":"insert","rangeStart":830,"rangeEnd":830,"text":"i","textLength":1,"docVersion":592}
+{"t":1794522197774,"file":"auction.cpp","type":"insert","rangeStart":831,"rangeEnd":831,"text":"d","textLength":1,"docVersion":593}
+{"t":1794522197961,"file":"auction.cpp","type":"insert","rangeStart":832,"rangeEnd":832,"text":"d","textLength":1,"docVersion":594}
+{"t":1794522198088,"file":"auction.cpp","type":"insert","rangeStart":833,"rangeEnd":833,"text":"e","textLength":1,"docVersion":595}
+{"t":1794522198194,"file":"auction.cpp","type":"insert","rangeStart":834,"rangeEnd":834,"text":"r","textLength":1,"docVersion":596}
+{"t":1794522199304,"file":"auction.cpp","type":"insert","rangeStart":835,"rangeEnd":835,"text":" ","textLength":1,"docVersion":597}
+{"t":1794522201521,"file":"auction.cpp","type":"insert","rangeStart":836,"rangeEnd":836,"text":"*","textLength":1,"docVersion":598}
+{"t":1794522203729,"file":"auction.cpp","type":"delete","rangeStart":836,"rangeEnd":837,"text":"","textLength":0,"docVersion":599}
+{"t":1794522203881,"file":"auction.cpp","type":"delete","rangeStart":835,"rangeEnd":836,"text":"","textLength":0,"docVersion":600}
+{"t":1794522204226,"file":"auction.cpp","type":"insert","rangeStart":835,"rangeEnd":835,"text":"*","textLength":1,"docVersion":601}
+{"t":1794522204338,"file":"auction.cpp","type":"insert","rangeStart":836,"rangeEnd":836,"text":" ","textLength":1,"docVersion":602}
+{"t":1794522207717,"file":"auction.cpp","type":"delete","rangeStart":848,"rangeEnd":849,"text":"","textLength":0,"docVersion":603}
+{"t":1794522207917,"file":"auction.cpp","type":"delete","rangeStart":847,"rangeEnd":848,"text":"","textLength":0,"docVersion":604}
+{"t":1794522207963,"file":"auction.cpp","type":"insert","rangeStart":847,"rangeEnd":847,"text":".","textLength":1,"docVersion":605}
+{"t":1794522214905,"file":"auction.cpp","type":"delete","rangeStart":829,"rangeEnd":869,"text":"","textLength":0,"docVersion":606}
+{"t":1794522215795,"file":"auction.cpp","type":"delete","rangeStart":825,"rangeEnd":829,"text":"","textLength":0,"docVersion":607}
+{"t":1794522216191,"file":"auction.cpp","type":"delete","rangeStart":823,"rangeEnd":825,"text":"","textLength":0,"docVersion":608}
+{"t":1794522224490,"file":"auction.cpp","type":"insert","rangeStart":845,"rangeEnd":845,"text":"\"","textLength":1,"docVersion":609}
+{"t":1794522225244,"file":"auction.cpp","type":"delete","rangeStart":845,"rangeEnd":846,"text":"","textLength":0,"docVersion":610}
+{"t":1794522228021,"file":"auction.cpp","type":"replace","rangeStart":846,"rangeEnd":872,"text":"T","textLength":1,"docVersion":611}
+{"t":1794522228188,"file":"auction.cpp","type":"insert","rangeStart":847,"rangeEnd":847,"text":"h","textLength":1,"docVersion":612}
+{"t":1794522228269,"file":"auction.cpp","type":"insert","rangeStart":848,"rangeEnd":848,"text":"e","textLength":1,"docVersion":613}
+{"t":1794522228392,"file":"auction.cpp","type":"insert","rangeStart":849,"rangeEnd":849,"text":" ","textLength":1,"docVersion":614}
+{"t":1794522231011,"file":"auction.cpp","type":"insert","rangeStart":851,"rangeEnd":851,"text":" ","textLength":1,"docVersion":615}
+{"t":1794522231163,"file":"auction.cpp","type":"insert","rangeStart":852,"rangeEnd":852,"text":"<","textLength":1,"docVersion":616}
+{"t":1794522231285,"file":"auction.cpp","type":"insert","rangeStart":853,"rangeEnd":853,"text":"<","textLength":1,"docVersion":617}
+{"t":1794522231939,"file":"auction.cpp","type":"insert","rangeStart":854,"rangeEnd":854,"text":" ","textLength":1,"docVersion":618}
+{"t":1794522233278,"file":"auction.cpp","type":"insert","rangeStart":855,"rangeEnd":855,"text":"i","textLength":1,"docVersion":619}
+{"t":1794522233381,"file":"auction.cpp","type":"insert","rangeStart":856,"rangeEnd":856,"text":"t","textLength":1,"docVersion":620}
+{"t":1794522233437,"file":"auction.cpp","type":"insert","rangeStart":857,"rangeEnd":857,"text":"e","textLength":1,"docVersion":621}
+{"t":1794522233503,"file":"auction.cpp","type":"insert","rangeStart":858,"rangeEnd":858,"text":"m","textLength":1,"docVersion":622}
+{"t":1794522235006,"file":"auction.cpp","type":"insert","rangeStart":859,"rangeEnd":859,"text":" ","textLength":1,"docVersion":623}
+{"t":1794522235202,"file":"auction.cpp","type":"insert","rangeStart":860,"rangeEnd":860,"text":"<","textLength":1,"docVersion":624}
+{"t":1794522235334,"file":"auction.cpp","type":"insert","rangeStart":861,"rangeEnd":861,"text":"<","textLength":1,"docVersion":625}
+{"t":1794522235568,"file":"auction.cpp","type":"insert","rangeStart":862,"rangeEnd":862,"text":" ","textLength":1,"docVersion":626}
+{"t":1794522236845,"file":"auction.cpp","type":"insert","rangeStart":863,"rangeEnd":863,"text":"\"\"","textLength":2,"docVersion":627}
+{"t":1794522237048,"file":"auction.cpp","type":"insert","rangeStart":864,"rangeEnd":864,"text":" ","textLength":1,"docVersion":628}
+{"t":1794522237497,"file":"auction.cpp","type":"insert","rangeStart":865,"rangeEnd":865,"text":"g","textLength":1,"docVersion":629}
+{"t":1794522237650,"file":"auction.cpp","type":"insert","rangeStart":866,"rangeEnd":866,"text":"o","textLength":1,"docVersion":630}
+{"t":1794522237756,"file":"auction.cpp","type":"insert","rangeStart":867,"rangeEnd":867,"text":"e","textLength":1,"docVersion":631}
+{"t":1794522237852,"file":"auction.cpp","type":"insert","rangeStart":868,"rangeEnd":868,"text":"s","textLength":1,"docVersion":632}
+{"t":1794522237979,"file":"auction.cpp","type":"insert","rangeStart":869,"rangeEnd":869,"text":" ","textLength":1,"docVersion":633}
+{"t":1794522238132,"file":"auction.cpp","type":"insert","rangeStart":870,"rangeEnd":870,"text":"t","textLength":1,"docVersion":634}
+{"t":1794522238198,"file":"auction.cpp","type":"insert","rangeStart":871,"rangeEnd":871,"text":"o","textLength":1,"docVersion":635}
+{"t":1794522238289,"file":"auction.cpp","type":"insert","rangeStart":872,"rangeEnd":872,"text":" ","textLength":1,"docVersion":636}
+{"t":1794522240195,"file":"auction.cpp","type":"insert","rangeStart":874,"rangeEnd":874,"text":" ","textLength":1,"docVersion":637}
+{"t":1794522240462,"file":"auction.cpp","type":"insert","rangeStart":875,"rangeEnd":875,"text":"<","textLength":1,"docVersion":638}
+{"t":1794522240604,"file":"auction.cpp","type":"insert","rangeStart":876,"rangeEnd":876,"text":"<","textLength":1,"docVersion":639}
+{"t":1794522240742,"file":"auction.cpp","type":"insert","rangeStart":877,"rangeEnd":877,"text":" ","textLength":1,"docVersion":640}
+{"t":1794522243047,"file":"auction.cpp","type":"insert","rangeStart":878,"rangeEnd":878,"text":"n","textLength":1,"docVersion":641}
+{"t":1794522243137,"file":"auction.cpp","type":"insert","rangeStart":879,"rangeEnd":879,"text":"a","textLength":1,"docVersion":642}
+{"t":1794522243284,"file":"auction.cpp","type":"insert","rangeStart":880,"rangeEnd":880,"text":"m","textLength":1,"docVersion":643}
+{"t":1794522243422,"file":"auction.cpp","type":"insert","rangeStart":881,"rangeEnd":881,"text":"e","textLength":1,"docVersion":644}
+{"t":1794522244101,"file":"auction.cpp","type":"delete","rangeStart":881,"rangeEnd":882,"text":"","textLength":0,"docVersion":645}
+{"t":1794522244256,"file":"auction.cpp","type":"delete","rangeStart":880,"rangeEnd":881,"text":"","textLength":0,"docVersion":646}
+{"t":1794522244404,"file":"auction.cpp","type":"delete","rangeStart":879,"rangeEnd":880,"text":"","textLength":0,"docVersion":647}
+{"t":1794522244542,"file":"auction.cpp","type":"delete","rangeStart":878,"rangeEnd":879,"text":"","textLength":0,"docVersion":648}
+{"t":1794522244603,"file":"auction.cpp","type":"insert","rangeStart":878,"rangeEnd":878,"text":"w","textLength":1,"docVersion":649}
+{"t":1794522244715,"file":"auction.cpp","type":"insert","rangeStart":879,"rangeEnd":879,"text":"i","textLength":1,"docVersion":650}
+{"t":1794522244922,"file":"auction.cpp","type":"insert","rangeStart":880,"rangeEnd":880,"text":"n","textLength":1,"docVersion":651}
+{"t":1794522245058,"file":"auction.cpp","type":"insert","rangeStart":881,"rangeEnd":881,"text":"n","textLength":1,"docVersion":652}
+{"t":1794522245119,"file":"auction.cpp","type":"insert","rangeStart":882,"rangeEnd":882,"text":"e","textLength":1,"docVersion":653}
+{"t":1794522245195,"file":"auction.cpp","type":"insert","rangeStart":883,"rangeEnd":883,"text":"r","textLength":1,"docVersion":654}
+{"t":1794522245764,"file":"auction.cpp","type":"insert","rangeStart":884,"rangeEnd":884,"text":"_","textLength":1,"docVersion":655}
+{"t":1794522245972,"file":"auction.cpp","type":"insert","rangeStart":885,"rangeEnd":885,"text":"n","textLength":1,"docVersion":656}
+{"t":1794522246062,"file":"auction.cpp","type":"insert","rangeStart":886,"rangeEnd":886,"text":"a","textLength":1,"docVersion":657}
+{"t":1794522246155,"file":"auction.cpp","type":"insert","rangeStart":887,"rangeEnd":887,"text":"m","textLength":1,"docVersion":658}
+{"t":1794522246252,"file":"auction.cpp","type":"insert","rangeStart":888,"rangeEnd":888,"text":"e","textLength":1,"docVersion":659}
+{"t":1794522247621,"file":"auction.cpp","type":"insert","rangeStart":889,"rangeEnd":889,"text":" ","textLength":1,"docVersion":660}
+{"t":1794522247798,"file":"auction.cpp","type":"insert","rangeStart":890,"rangeEnd":890,"text":"<","textLength":1,"docVersion":661}
+{"t":1794522247945,"file":"auction.cpp","type":"insert","rangeStart":891,"rangeEnd":891,"text":"<","textLength":1,"docVersion":662}
+{"t":1794522248051,"file":"auction.cpp","type":"insert","rangeStart":892,"rangeEnd":892,"text":" ","textLength":1,"docVersion":663}
+{"t":1794522249472,"file":"auction.cpp","type":"insert","rangeStart":893,"rangeEnd":893,"text":"\"\"","textLength":2,"docVersion":664}
+{"t":1794522249655,"file":"auction.cpp","type":"replace","rangeStart":894,"rangeEnd":895,"text":"\"","textLength":1,"docVersion":665}
+{"t":1794522252766,"file":"auction.cpp","type":"insert","rangeStart":894,"rangeEnd":894,"text":" ","textLength":1,"docVersion":666}
+{"t":1794522252943,"file":"auction.cpp","type":"insert","rangeStart":895,"rangeEnd":895,"text":"f","textLength":1,"docVersion":667}
+{"t":1794522253050,"file":"auction.cpp","type":"insert","rangeStart":896,"rangeEnd":896,"text":"o","textLength":1,"docVersion":668}
+{"t":1794522253186,"file":"auction.cpp","type":"insert","rangeStart":897,"rangeEnd":897,"text":"r","textLength":1,"docVersion":669}
+{"t":1794522253257,"file":"auction.cpp","type":"insert","rangeStart":898,"rangeEnd":898,"text":" ","textLength":1,"docVersion":670}
+{"t":1794522257245,"file":"auction.cpp","type":"insert","rangeStart":900,"rangeEnd":900,"text":" ","textLength":1,"docVersion":671}
+{"t":1794522257518,"file":"auction.cpp","type":"insert","rangeStart":901,"rangeEnd":901,"text":"<","textLength":1,"docVersion":672}
+{"t":1794522257661,"file":"auction.cpp","type":"insert","rangeStart":902,"rangeEnd":902,"text":"<","textLength":1,"docVersion":673}
+{"t":1794522257767,"file":"auction.cpp","type":"insert","rangeStart":903,"rangeEnd":903,"text":" ","textLength":1,"docVersion":674}
+{"t":1794522258224,"file":"auction.cpp","type":"insert","rangeStart":904,"rangeEnd":904,"text":"h","textLength":1,"docVersion":675}
+{"t":1794522258326,"file":"auction.cpp","type":"insert","rangeStart":905,"rangeEnd":905,"text":"i","textLength":1,"docVersion":676}
+{"t":1794522258412,"file":"auction.cpp","type":"insert","rangeStart":906,"rangeEnd":906,"text":"g","textLength":1,"docVersion":677}
+{"t":1794522258559,"file":"auction.cpp","type":"insert","rangeStart":907,"rangeEnd":907,"text":"h","textLength":1,"docVersion":678}
+{"t":1794522258678,"file":"auction.cpp","type":"insert","rangeStart":908,"rangeEnd":908,"text":"e","textLength":1,"docVersion":679}
+{"t":1794522258757,"file":"auction.cpp","type":"insert","rangeStart":909,"rangeEnd":909,"text":"s","textLength":1,"docVersion":680}
+{"t":1794522258864,"file":"auction.cpp","type":"insert","rangeStart":910,"rangeEnd":910,"text":"t","textLength":1,"docVersion":681}
+{"t":1794522259350,"file":"auction.cpp","type":"delete","rangeStart":910,"rangeEnd":911,"text":"","textLength":0,"docVersion":682}
+{"t":1794522259506,"file":"auction.cpp","type":"delete","rangeStart":909,"rangeEnd":910,"text":"","textLength":0,"docVersion":683}
+{"t":1794522259656,"file":"auction.cpp","type":"delete","rangeStart":908,"rangeEnd":909,"text":"","textLength":0,"docVersion":684}
+{"t":1794522259812,"file":"auction.cpp","type":"delete","rangeStart":907,"rangeEnd":908,"text":"","textLength":0,"docVersion":685}
+{"t":1794522259968,"file":"auction.cpp","type":"delete","rangeStart":906,"rangeEnd":907,"text":"","textLength":0,"docVersion":686}
+{"t":1794522260126,"file":"auction.cpp","type":"delete","rangeStart":905,"rangeEnd":906,"text":"","textLength":0,"docVersion":687}
+{"t":1794522260283,"file":"auction.cpp","type":"delete","rangeStart":904,"rangeEnd":905,"text":"","textLength":0,"docVersion":688}
+{"t":1794522260537,"file":"auction.cpp","type":"insert","rangeStart":904,"rangeEnd":904,"text":"w","textLength":1,"docVersion":689}
+{"t":1794522260562,"file":"auction.cpp","type":"insert","rangeStart":905,"rangeEnd":905,"text":"i","textLength":1,"docVersion":690}
+{"t":1794522260942,"file":"auction.cpp","type":"insert","rangeStart":906,"rangeEnd":906,"text":"n","textLength":1,"docVersion":691}
+{"t":1794522261115,"file":"auction.cpp","type":"insert","rangeStart":907,"rangeEnd":907,"text":"n","textLength":1,"docVersion":692}
+{"t":1794522261187,"file":"auction.cpp","type":"insert","rangeStart":908,"rangeEnd":908,"text":"i","textLength":1,"docVersion":693}
+{"t":1794522261314,"file":"auction.cpp","type":"insert","rangeStart":909,"rangeEnd":909,"text":"n","textLength":1,"docVersion":694}
+{"t":1794522261419,"file":"auction.cpp","type":"insert","rangeStart":910,"rangeEnd":910,"text":"g","textLength":1,"docVersion":695}
+{"t":1794522261652,"file":"auction.cpp","type":"insert","rangeStart":911,"rangeEnd":911,"text":" ","textLength":1,"docVersion":696}
+{"t":1794522261991,"file":"auction.cpp","type":"delete","rangeStart":911,"rangeEnd":912,"text":"","textLength":0,"docVersion":697}
+{"t":1794522262906,"file":"auction.cpp","type":"insert","rangeStart":911,"rangeEnd":911,"text":"_","textLength":1,"docVersion":698}
+{"t":1794522263190,"file":"auction.cpp","type":"insert","rangeStart":912,"rangeEnd":912,"text":"b","textLength":1,"docVersion":699}
+{"t":1794522263429,"file":"auction.cpp","type":"insert","rangeStart":913,"rangeEnd":913,"text":"i","textLength":1,"docVersion":700}
+{"t":1794522263590,"file":"auction.cpp","type":"insert","rangeStart":914,"rangeEnd":914,"text":"d","textLength":1,"docVersion":701}
+{"t":1794522270418,"file":"auction.cpp","type":"insert","rangeStart":899,"rangeEnd":899,"text":"$","textLength":1,"docVersion":702}
+{"t":1794522276775,"file":"auction.cpp","type":"insert","rangeStart":43,"rangeEnd":43,"text":"\r\n","textLength":2,"docVersion":703}
+{"t":1794522277245,"file":"auction.cpp","type":"insert","rangeStart":45,"rangeEnd":45,"text":"#","textLength":1,"docVersion":704}
+{"t":1794522277498,"file":"auction.cpp","type":"insert","rangeStart":46,"rangeEnd":46,"text":"i","textLength":1,"docVersion":705}
+{"t":1794522277569,"file":"auction.cpp","type":"insert","rangeStart":47,"rangeEnd":47,"text":"n","textLength":1,"docVersion":706}
+{"t":1794522277656,"file":"auction.cpp","type":"insert","rangeStart":48,"rangeEnd":48,"text":"c","textLength":1,"docVersion":707}
+{"t":1794522277762,"file":"auction.cpp","type":"insert","rangeStart":49,"rangeEnd":49,"text":"l","textLength":1,"docVersion":708}
+{"t":1794522277844,"file":"auction.cpp","type":"insert","rangeStart":50,"rangeEnd":50,"text":"u","textLength":1,"docVersion":709}
+{"t":1794522277955,"file":"auction.cpp","type":"insert","rangeStart":51,"rangeEnd":51,"text":"d","textLength":1,"docVersion":710}
+{"t":1794522278008,"file":"auction.cpp","type":"insert","rangeStart":52,"rangeEnd":52,"text":"e","textLength":1,"docVersion":711}
+{"t":1794522278568,"file":"auction.cpp","type":"insert","rangeStart":53,"rangeEnd":53,"text":" ","textLength":1,"docVersion":712}
+{"t":1794522278797,"file":"auction.cpp","type":"insert","rangeStart":54,"rangeEnd":54,"text":"<","textLength":1,"docVersion":713}
+{"t":1794522279034,"file":"auction.cpp","type":"insert","rangeStart":55,"rangeEnd":55,"text":"i","textLength":1,"docVersion":714}
+{"t":1794522279081,"file":"auction.cpp","type":"insert","rangeStart":56,"rangeEnd":56,"text":"o","textLength":1,"docVersion":715}
+{"t":1794522279243,"file":"auction.cpp","type":"insert","rangeStart":57,"rangeEnd":57,"text":"m","textLength":1,"docVersion":716}
+{"t":1794522279355,"file":"auction.cpp","type":"insert","rangeStart":58,"rangeEnd":58,"text":"a","textLength":1,"docVersion":717}
+{"t":1794522279490,"file":"auction.cpp","type":"insert","rangeStart":59,"rangeEnd":59,"text":"n","textLength":1,"docVersion":718}
+{"t":1794522279561,"file":"auction.cpp","type":"insert","rangeStart":60,"rangeEnd":60,"text":"i","textLength":1,"docVersion":719}
+{"t":1794522279744,"file":"auction.cpp","type":"insert","rangeStart":61,"rangeEnd":61,"text":"p","textLength":1,"docVersion":720}
+{"t":1794522280550,"file":"auction.cpp","type":"insert","rangeStart":62,"rangeEnd":62,"text":">","textLength":1,"docVersion":721}
+{"t":1794522285234,"file":"auction.cpp","type":"insert","rangeStart":856,"rangeEnd":856,"text":" ","textLength":1,"docVersion":722}
+{"t":1794522285464,"file":"auction.cpp","type":"insert","rangeStart":857,"rangeEnd":857,"text":"s","textLength":1,"docVersion":723}
+{"t":1794522286223,"file":"auction.cpp","type":"delete","rangeStart":857,"rangeEnd":858,"text":"","textLength":0,"docVersion":724}
+{"t":1794522286987,"file":"auction.cpp","type":"insert","rangeStart":857,"rangeEnd":857,"text":"f","textLength":1,"docVersion":725}
+{"t":1794522287136,"file":"auction.cpp","type":"insert","rangeStart":858,"rangeEnd":858,"text":"i","textLength":1,"docVersion":726}
+{"t":1794522287226,"file":"auction.cpp","type":"insert","rangeStart":859,"rangeEnd":859,"text":"x","textLength":1,"docVersion":727}
+{"t":1794522287419,"file":"auction.cpp","type":"insert","rangeStart":860,"rangeEnd":860,"text":"e","textLength":1,"docVersion":728}
+{"t":1794522287502,"file":"auction.cpp","type":"insert","rangeStart":861,"rangeEnd":861,"text":"d","textLength":1,"docVersion":729}
+{"t":1794522288072,"file":"auction.cpp","type":"insert","rangeStart":862,"rangeEnd":862,"text":" ","textLength":1,"docVersion":730}
+{"t":1794522288352,"file":"auction.cpp","type":"insert","rangeStart":863,"rangeEnd":863,"text":"<","textLength":1,"docVersion":731}
+{"t":1794522288506,"file":"auction.cpp","type":"insert","rangeStart":864,"rangeEnd":864,"text":"<","textLength":1,"docVersion":732}
+{"t":1794522288592,"file":"auction.cpp","type":"insert","rangeStart":865,"rangeEnd":865,"text":" ","textLength":1,"docVersion":733}
+{"t":1794522289037,"file":"auction.cpp","type":"insert","rangeStart":866,"rangeEnd":866,"text":"s","textLength":1,"docVersion":734}
+{"t":1794522289195,"file":"auction.cpp","type":"insert","rangeStart":867,"rangeEnd":867,"text":"e","textLength":1,"docVersion":735}
+{"t":1794522289260,"file":"auction.cpp","type":"insert","rangeStart":868,"rangeEnd":868,"text":"t","textLength":1,"docVersion":736}
+{"t":1794522289473,"file":"auction.cpp","type":"insert","rangeStart":869,"rangeEnd":869,"text":"p","textLength":1,"docVersion":737}
+{"t":1794522289538,"file":"auction.cpp","type":"insert","rangeStart":870,"rangeEnd":870,"text":"r","textLength":1,"docVersion":738}
+{"t":1794522289606,"file":"auction.cpp","type":"insert","rangeStart":871,"rangeEnd":871,"text":"e","textLength":1,"docVersion":739}
+{"t":1794522289768,"file":"auction.cpp","type":"insert","rangeStart":872,"rangeEnd":872,"text":"c","textLength":1,"docVersion":740}
+{"t":1794522289838,"file":"auction.cpp","type":"insert","rangeStart":873,"rangeEnd":873,"text":"i","textLength":1,"docVersion":741}
+{"t":1794522289955,"file":"auction.cpp","type":"insert","rangeStart":874,"rangeEnd":874,"text":"s","textLength":1,"docVersion":742}
+{"t":1794522290015,"file":"auction.cpp","type":"insert","rangeStart":875,"rangeEnd":875,"text":"i","textLength":1,"docVersion":743}
+{"t":1794522290091,"file":"auction.cpp","type":"insert","rangeStart":876,"rangeEnd":876,"text":"o","textLength":1,"docVersion":744}
+{"t":1794522290240,"file":"auction.cpp","type":"insert","rangeStart":877,"rangeEnd":877,"text":"n","textLength":1,"docVersion":745}
+{"t":1794522291020,"file":"auction.cpp","type":"insert","rangeStart":878,"rangeEnd":878,"text":"()","textLength":2,"docVersion":746}
+{"t":1794522291231,"file":"auction.cpp","type":"insert","rangeStart":879,"rangeEnd":879,"text":"2","textLength":1,"docVersion":747}
+{"t":1794522301269,"file":"auction.cpp","type":"insert","rangeStart":881,"rangeEnd":881,"text":" ","textLength":1,"docVersion":748}
+{"t":1794522301552,"file":"auction.cpp","type":"insert","rangeStart":882,"rangeEnd":882,"text":"<","textLength":1,"docVersion":749}
+{"t":1794522301667,"file":"auction.cpp","type":"insert","rangeStart":883,"rangeEnd":883,"text":"<","textLength":1,"docVersion":750}
+{"t":1794522312935,"file":"auction.cpp","type":"replace","rangeStart":798,"rangeEnd":841,"text":"\r\n    ","textLength":6,"docVersion":751}
+{"t":1794522314069,"file":"auction.cpp","type":"insert","rangeStart":804,"rangeEnd":804,"text":"w","textLength":1,"docVersion":752}
+{"t":1794522314176,"file":"auction.cpp","type":"insert","rangeStart":805,"rangeEnd":805,"text":"i","textLength":1,"docVersion":753}
+{"t":1794522314397,"file":"auction.cpp","type":"insert","rangeStart":806,"rangeEnd":806,"text":"n","textLength":1,"docVersion":754}
+{"t":1794522314606,"file":"auction.cpp","type":"insert","rangeStart":807,"rangeEnd":807,"text":"n","textLength":1,"docVersion":755}
+{"t":1794522314763,"file":"auction.cpp","type":"insert","rangeStart":808,"rangeEnd":808,"text":"e","textLength":1,"docVersion":756}
+{"t":1794522314824,"file":"auction.cpp","type":"insert","rangeStart":809,"rangeEnd":809,"text":"r","textLength":1,"docVersion":757}
+{"t":1794522315497,"file":"auction.cpp","type":"insert","rangeStart":810,"rangeEnd":810,"text":"_","textLength":1,"docVersion":758}
+{"t":1794522315756,"file":"auction.cpp","type":"insert","rangeStart":811,"rangeEnd":811,"text":"n","textLength":1,"docVersion":759}
+{"t":1794522315850,"file":"auction.cpp","type":"insert","rangeStart":812,"rangeEnd":812,"text":"a","textLength":1,"docVersion":760}
+{"t":1794522315949,"file":"auction.cpp","type":"insert","rangeStart":813,"rangeEnd":813,"text":"m","textLength":1,"docVersion":761}
+{"t":1794522316020,"file":"auction.cpp","type":"insert","rangeStart":814,"rangeEnd":814,"text":"e","textLength":1,"docVersion":762}
+{"t":1794522316607,"file":"auction.cpp","type":"insert","rangeStart":815,"rangeEnd":815,"text":" ","textLength":1,"docVersion":763}
+{"t":1794522316703,"file":"auction.cpp","type":"insert","rangeStart":816,"rangeEnd":816,"text":"=","textLength":1,"docVersion":764}
+{"t":1794522316835,"file":"auction.cpp","type":"insert","rangeStart":817,"rangeEnd":817,"text":" ","textLength":1,"docVersion":765}
+{"t":1794522317518,"file":"auction.cpp","type":"insert","rangeStart":818,"rangeEnd":818,"text":"\"\"","textLength":2,"docVersion":766}
+{"t":1794522320882,"file":"auction.cpp","type":"insert","rangeStart":810,"rangeEnd":810,"text":"s","textLength":1,"docVersion":767}
+{"t":1794522323834,"file":"auction.cpp","type":"insert","rangeStart":820,"rangeEnd":820,"text":"P","textLength":1,"docVersion":768}
+{"t":1794522323951,"file":"auction.cpp","type":"insert","rangeStart":821,"rangeEnd":821,"text":"H","textLength":1,"docVersion":769}
+{"t":1794522328992,"file":"auction.cpp","type":"delete","rangeStart":810,"rangeEnd":811,"text":"","textLength":0,"docVersion":770}
+{"t":1794522330356,"file":"auction.cpp","type":"insert","rangeStart":804,"rangeEnd":804,"text":"s","textLength":1,"docVersion":771}
+{"t":1794522330540,"file":"auction.cpp","type":"insert","rangeStart":805,"rangeEnd":805,"text":"t","textLength":1,"docVersion":772}
+{"t":1794522330691,"file":"auction.cpp","type":"insert","rangeStart":806,"rangeEnd":806,"text":"r","textLength":1,"docVersion":773}
+{"t":1794522330728,"file":"auction.cpp","type":"insert","rangeStart":807,"rangeEnd":807,"text":"i","textLength":1,"docVersion":774}
+{"t":1794522330778,"file":"auction.cpp","type":"insert","rangeStart":808,"rangeEnd":808,"text":"n","textLength":1,"docVersion":775}
+{"t":1794522330879,"file":"auction.cpp","type":"insert","rangeStart":809,"rangeEnd":809,"text":"g","textLength":1,"docVersion":776}
+{"t":1794522330971,"file":"auction.cpp","type":"insert","rangeStart":810,"rangeEnd":810,"text":" ","textLength":1,"docVersion":777}
+{"t":1794522333436,"file":"auction.cpp","type":"insert","rangeStart":829,"rangeEnd":829,"text":"\r\n    ","textLength":6,"docVersion":778}
+{"t":1794522333612,"file":"auction.cpp","type":"insert","rangeStart":835,"rangeEnd":835,"text":"d","textLength":1,"docVersion":779}
+{"t":1794522333795,"file":"auction.cpp","type":"insert","rangeStart":836,"rangeEnd":836,"text":"o","textLength":1,"docVersion":780}
+{"t":1794522333967,"file":"auction.cpp","type":"insert","rangeStart":837,"rangeEnd":837,"text":"u","textLength":1,"docVersion":781}
+{"t":1794522334059,"file":"auction.cpp","type":"insert","rangeStart":838,"rangeEnd":838,"text":"b","textLength":1,"docVersion":782}
+{"t":1794522334171,"file":"auction.cpp","type":"insert","rangeStart":839,"rangeEnd":839,"text":"l","textLength":1,"docVersion":783}
+{"t":1794522334276,"file":"auction.cpp","type":"insert","rangeStart":840,"rangeEnd":840,"text":"e","textLength":1,"docVersion":784}
+{"t":1794522334378,"file":"auction.cpp","type":"insert","rangeStart":841,"rangeEnd":841,"text":" ","textLength":1,"docVersion":785}
+{"t":1794522334788,"file":"auction.cpp","type":"insert","rangeStart":842,"rangeEnd":842,"text":"w","textLength":1,"docVersion":786}
+{"t":1794522335788,"file":"auction.cpp","type":"insert","rangeStart":843,"rangeEnd":843,"text":"i","textLength":1,"docVersion":787}
+{"t":1794522335958,"file":"auction.cpp","type":"insert","rangeStart":844,"rangeEnd":844,"text":"n","textLength":1,"docVersion":788}
+{"t":1794522336601,"file":"auction.cpp","type":"insert","rangeStart":845,"rangeEnd":845,"text":"n","textLength":1,"docVersion":789}
+{"t":1794522336764,"file":"auction.cpp","type":"insert","rangeStart":846,"rangeEnd":846,"text":"i","textLength":1,"docVersion":790}
+{"t":1794522336856,"file":"auction.cpp","type":"insert","rangeStart":847,"rangeEnd":847,"text":"n","textLength":1,"docVersion":791}
+{"t":1794522336961,"file":"auction.cpp","type":"insert","rangeStart":848,"rangeEnd":848,"text":"g","textLength":1,"docVersion":792}
+{"t":1794522337062,"file":"auction.cpp","type":"insert","rangeStart":849,"rangeEnd":849,"text":" ","textLength":1,"docVersion":793}
+{"t":1794522337337,"file":"auction.cpp","type":"delete","rangeStart":849,"rangeEnd":850,"text":"","textLength":0,"docVersion":794}
+{"t":1794522337622,"file":"auction.cpp","type":"insert","rangeStart":849,"rangeEnd":849,"text":"_","textLength":1,"docVersion":795}
+{"t":1794522337859,"file":"auction.cpp","type":"insert","rangeStart":850,"rangeEnd":850,"text":"b","textLength":1,"docVersion":796}
+{"t":1794522337980,"file":"auction.cpp","type":"insert","rangeStart":851,"rangeEnd":851,"text":"i","textLength":1,"docVersion":797}
+{"t":1794522338073,"file":"auction.cpp","type":"insert","rangeStart":852,"rangeEnd":852,"text":"d","textLength":1,"docVersion":798}
+{"t":1794522338310,"file":"auction.cpp","type":"insert","rangeStart":853,"rangeEnd":853,"text":" ","textLength":1,"docVersion":799}
+{"t":1794522338796,"file":"auction.cpp","type":"insert","rangeStart":854,"rangeEnd":854,"text":"=","textLength":1,"docVersion":800}
+{"t":1794522338885,"file":"auction.cpp","type":"insert","rangeStart":855,"rangeEnd":855,"text":" ","textLength":1,"docVersion":801}
+{"t":1794522341725,"file":"auction.cpp","type":"insert","rangeStart":856,"rangeEnd":856,"text":"1","textLength":1,"docVersion":802}
+{"t":1794522341780,"file":"auction.cpp","type":"insert","rangeStart":857,"rangeEnd":857,"text":"0","textLength":1,"docVersion":803}
+{"t":1794522341929,"file":"auction.cpp","type":"insert","rangeStart":858,"rangeEnd":858,"text":"0","textLength":1,"docVersion":804}
+{"t":1794522342102,"file":"auction.cpp","type":"insert","rangeStart":859,"rangeEnd":859,"text":"0","textLength":1,"docVersion":805}
+{"t":1794522342693,"file":"auction.cpp","type":"delete","rangeStart":859,"rangeEnd":860,"text":"","textLength":0,"docVersion":806}
+{"t":1794522342901,"file":"auction.cpp","type":"delete","rangeStart":858,"rangeEnd":859,"text":"","textLength":0,"docVersion":807}
+{"t":1794522343301,"file":"auction.cpp","type":"insert","rangeStart":858,"rangeEnd":858,"text":"0","textLength":1,"docVersion":808}
+{"t":1794522345393,"file":"auction.cpp","type":"insert","rangeStart":859,"rangeEnd":859,"text":";","textLength":1,"docVersion":809}
+{"t":1794522346686,"file":"auction.cpp","type":"insert","rangeStart":829,"rangeEnd":829,"text":";","textLength":1,"docVersion":810}
+{"t":1794522351982,"file":"auction.cpp","type":"file-save"}
+{"t":1794522358961,"file":"auction.cpp","type":"window-blur"}
+{"t":1794522360241,"file":"auction.cpp","type":"window-focus"}
+{"t":1794522362679,"file":"auctioneer.hpp","type":"file-save"}
+{"t":1794522402610,"file":"auction.cpp","type":"window-blur"}
+{"t":1794522440058,"file":"auction.cpp","type":"window-focus"}
+{"t":1794522447249,"file":"CMakeLists.txt","type":"file-open"}
+{"t":1794522476301,"file":"README.md","type":"file-open"}
+{"t":1794522480407,"file":"main.cpp","type":"file-open"}
+{"t":1794522493215,"file":"README.md","type":"file-open"}

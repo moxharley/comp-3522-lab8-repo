@@ -1,5 +1,6 @@
 #include "auction.hpp"
 #include <iostream>
+#include <iomanip>
 
 using namespace std;
 
@@ -17,5 +18,9 @@ void Auction::simulate_auction(string item, double start_price) {
     // bidder/bid) and a per-bidder summary of each bidder's highest bid.
     cout << "Auctioning " << item << " at starting price $" << start_price << endl;
     auctioneer.accept_bid(start_price);
-    cout << endl << "Winning message goes here." << endl;
+    
+    string winner_name = "PH";
+    double winning_bid = 100;
+
+    cout << fixed << setprecision(2) << endl << "The " << item << " goes to " << winner_name << " for $" << winning_bid << endl;
 }
