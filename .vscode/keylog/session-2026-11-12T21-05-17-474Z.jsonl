@@ -2535,3 +2535,542 @@
 {"t":1794520939899,"file":"bidder.cpp","type":"file-save"}
 {"t":1794520944692,"file":"bidder.cpp","type":"window-blur"}
 {"t":1794520974306,"file":"bidder.cpp","type":"window-focus"}
+{"t":1794521048475,"file":"auctioneer.cpp","type":"insert","rangeStart":611,"rangeEnd":611,"text":" ","textLength":1,"docVersion":1033}
+{"t":1794521048805,"file":"auctioneer.cpp","type":"insert","rangeStart":612,"rangeEnd":612,"text":"|","textLength":1,"docVersion":1034}
+{"t":1794521048954,"file":"auctioneer.cpp","type":"insert","rangeStart":613,"rangeEnd":613,"text":"|","textLength":1,"docVersion":1035}
+{"t":1794521049079,"file":"auctioneer.cpp","type":"insert","rangeStart":614,"rangeEnd":614,"text":" ","textLength":1,"docVersion":1036}
+{"t":1794521049926,"file":"auctioneer.cpp","type":"insert","rangeStart":615,"rangeEnd":615,"text":"b","textLength":1,"docVersion":1037}
+{"t":1794521050012,"file":"auctioneer.cpp","type":"insert","rangeStart":616,"rangeEnd":616,"text":"i","textLength":1,"docVersion":1038}
+{"t":1794521050119,"file":"auctioneer.cpp","type":"insert","rangeStart":617,"rangeEnd":617,"text":"d","textLength":1,"docVersion":1039}
+{"t":1794521050283,"file":"auctioneer.cpp","type":"insert","rangeStart":618,"rangeEnd":618,"text":"d","textLength":1,"docVersion":1040}
+{"t":1794521050355,"file":"auctioneer.cpp","type":"insert","rangeStart":619,"rangeEnd":619,"text":"e","textLength":1,"docVersion":1041}
+{"t":1794521050486,"file":"auctioneer.cpp","type":"insert","rangeStart":620,"rangeEnd":620,"text":"r","textLength":1,"docVersion":1042}
+{"t":1794521050892,"file":"auctioneer.cpp","type":"insert","rangeStart":621,"rangeEnd":621,"text":" ","textLength":1,"docVersion":1043}
+{"t":1794521051027,"file":"auctioneer.cpp","type":"insert","rangeStart":622,"rangeEnd":622,"text":"=","textLength":1,"docVersion":1044}
+{"t":1794521051199,"file":"auctioneer.cpp","type":"insert","rangeStart":623,"rangeEnd":623,"text":"=","textLength":1,"docVersion":1045}
+{"t":1794521051837,"file":"auctioneer.cpp","type":"insert","rangeStart":624,"rangeEnd":624,"text":" ","textLength":1,"docVersion":1046}
+{"t":1794521052204,"file":"auctioneer.cpp","type":"insert","rangeStart":625,"rangeEnd":625,"text":"N","textLength":1,"docVersion":1047}
+{"t":1794521052288,"file":"auctioneer.cpp","type":"insert","rangeStart":626,"rangeEnd":626,"text":"U","textLength":1,"docVersion":1048}
+{"t":1794521052551,"file":"auctioneer.cpp","type":"insert","rangeStart":627,"rangeEnd":627,"text":"L","textLength":1,"docVersion":1049}
+{"t":1794521052696,"file":"auctioneer.cpp","type":"insert","rangeStart":628,"rangeEnd":628,"text":"L","textLength":1,"docVersion":1050}
+{"t":1794521057346,"file":"auctioneer.cpp","type":"file-save"}
+{"t":1794521058153,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521088961,"file":"auctioneer.cpp","type":"window-focus"}
+{"t":1794521102235,"file":"auctioneer.cpp","type":"replace","rangeStart":615,"rangeEnd":629,"text":"b","textLength":1,"docVersion":1051}
+{"t":1794521102522,"file":"auctioneer.cpp","type":"insert","rangeStart":616,"rangeEnd":616,"text":"i","textLength":1,"docVersion":1052}
+{"t":1794521102987,"file":"auctioneer.cpp","type":"insert","rangeStart":617,"rangeEnd":617,"text":"d","textLength":1,"docVersion":1053}
+{"t":1794521103409,"file":"auctioneer.cpp","type":"insert","rangeStart":618,"rangeEnd":618,"text":" ","textLength":1,"docVersion":1054}
+{"t":1794521103576,"file":"auctioneer.cpp","type":"insert","rangeStart":619,"rangeEnd":619,"text":"=","textLength":1,"docVersion":1055}
+{"t":1794521103738,"file":"auctioneer.cpp","type":"insert","rangeStart":620,"rangeEnd":620,"text":"=","textLength":1,"docVersion":1056}
+{"t":1794521103844,"file":"auctioneer.cpp","type":"insert","rangeStart":621,"rangeEnd":621,"text":" ","textLength":1,"docVersion":1057}
+{"t":1794521104182,"file":"auctioneer.cpp","type":"insert","rangeStart":622,"rangeEnd":622,"text":"1","textLength":1,"docVersion":1058}
+{"t":1794521104284,"file":"auctioneer.cpp","type":"insert","rangeStart":623,"rangeEnd":623,"text":"0","textLength":1,"docVersion":1059}
+{"t":1794521104797,"file":"auctioneer.cpp","type":"insert","rangeStart":624,"rangeEnd":624,"text":"0","textLength":1,"docVersion":1060}
+{"t":1794521110246,"file":"auctioneer.cpp","type":"file-save"}
+{"t":1794521111527,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521144326,"file":"auctioneer.cpp","type":"window-focus"}
+{"t":1794521146039,"file":"auctioneer.cpp","type":"copy-command","size":20}
+{"t":1794521146373,"file":"auctioneer.cpp","type":"delete","rangeStart":490,"rangeEnd":510,"text":"","textLength":0,"docVersion":1061}
+{"t":1794521147300,"file":"auctioneer.cpp","type":"insert","rangeStart":490,"rangeEnd":490,"text":"=","textLength":1,"docVersion":1062}
+{"t":1794521147654,"file":"auctioneer.cpp","type":"insert","rangeStart":491,"rangeEnd":491,"text":" ","textLength":1,"docVersion":1063}
+{"t":1794521147853,"file":"auctioneer.cpp","type":"insert","rangeStart":492,"rangeEnd":492,"text":"\"\"","textLength":2,"docVersion":1064}
+{"t":1794521149804,"file":"auctioneer.cpp","type":"insert","rangeStart":568,"rangeEnd":568,"text":"e","textLength":1,"docVersion":1065}
+{"t":1794521149973,"file":"auctioneer.cpp","type":"insert","rangeStart":569,"rangeEnd":569,"text":"l","textLength":1,"docVersion":1066}
+{"t":1794521150061,"file":"auctioneer.cpp","type":"insert","rangeStart":570,"rangeEnd":570,"text":"s","textLength":1,"docVersion":1067}
+{"t":1794521150133,"file":"auctioneer.cpp","type":"insert","rangeStart":571,"rangeEnd":571,"text":"e","textLength":1,"docVersion":1068}
+{"t":1794521150254,"file":"auctioneer.cpp","type":"insert","rangeStart":572,"rangeEnd":572,"text":" ","textLength":1,"docVersion":1069}
+{"t":1794521150758,"file":"auctioneer.cpp","type":"delete","rangeStart":572,"rangeEnd":573,"text":"","textLength":0,"docVersion":1070}
+{"t":1794521150920,"file":"auctioneer.cpp","type":"delete","rangeStart":571,"rangeEnd":572,"text":"","textLength":0,"docVersion":1071}
+{"t":1794521151055,"file":"auctioneer.cpp","type":"delete","rangeStart":570,"rangeEnd":571,"text":"","textLength":0,"docVersion":1072}
+{"t":1794521151197,"file":"auctioneer.cpp","type":"delete","rangeStart":569,"rangeEnd":570,"text":"","textLength":0,"docVersion":1073}
+{"t":1794521151339,"file":"auctioneer.cpp","type":"delete","rangeStart":568,"rangeEnd":569,"text":"","textLength":0,"docVersion":1074}
+{"t":1794521151427,"file":"auctioneer.cpp","type":"insert","rangeStart":568,"rangeEnd":568,"text":" ","textLength":1,"docVersion":1075}
+{"t":1794521151533,"file":"auctioneer.cpp","type":"insert","rangeStart":569,"rangeEnd":569,"text":"e","textLength":1,"docVersion":1076}
+{"t":1794521151694,"file":"auctioneer.cpp","type":"insert","rangeStart":570,"rangeEnd":570,"text":"l","textLength":1,"docVersion":1077}
+{"t":1794521151784,"file":"auctioneer.cpp","type":"insert","rangeStart":571,"rangeEnd":571,"text":"s","textLength":1,"docVersion":1078}
+{"t":1794521151856,"file":"auctioneer.cpp","type":"insert","rangeStart":572,"rangeEnd":572,"text":"e","textLength":1,"docVersion":1079}
+{"t":1794521152007,"file":"auctioneer.cpp","type":"insert","rangeStart":573,"rangeEnd":573,"text":" ","textLength":1,"docVersion":1080}
+{"t":1794521152757,"file":"auctioneer.cpp","type":"insert","rangeStart":574,"rangeEnd":574,"text":"{}","textLength":2,"docVersion":1081}
+{"t":1794521152958,"file":"auctioneer.cpp","type":"insert","rangeStart":575,"rangeEnd":575,"text":"\r\n        \r\n    ","textLength":16,"docVersion":1082}
+{"t":1794521153583,"file":"auctioneer.cpp","type":"paste-command","size":20}
+{"t":1794521153602,"file":"auctioneer.cpp","type":"insert","rangeStart":585,"rangeEnd":585,"text":"= bidder->get_name()","textLength":20,"docVersion":1083,"source":"paste-refactor"}
+{"t":1794521156310,"file":"auctioneer.cpp","type":"insert","rangeStart":585,"rangeEnd":585,"text":"b","textLength":1,"docVersion":1084}
+{"t":1794521156424,"file":"auctioneer.cpp","type":"insert","rangeStart":586,"rangeEnd":586,"text":"i","textLength":1,"docVersion":1085}
+{"t":1794521156536,"file":"auctioneer.cpp","type":"insert","rangeStart":587,"rangeEnd":587,"text":"d","textLength":1,"docVersion":1086}
+{"t":1794521156702,"file":"auctioneer.cpp","type":"insert","rangeStart":588,"rangeEnd":588,"text":"d","textLength":1,"docVersion":1087}
+{"t":1794521156763,"file":"auctioneer.cpp","type":"insert","rangeStart":589,"rangeEnd":589,"text":"e","textLength":1,"docVersion":1088}
+{"t":1794521156877,"file":"auctioneer.cpp","type":"insert","rangeStart":590,"rangeEnd":590,"text":"r","textLength":1,"docVersion":1089}
+{"t":1794521157359,"file":"auctioneer.cpp","type":"insert","rangeStart":591,"rangeEnd":591,"text":"_","textLength":1,"docVersion":1090}
+{"t":1794521157622,"file":"auctioneer.cpp","type":"insert","rangeStart":592,"rangeEnd":592,"text":"n","textLength":1,"docVersion":1091}
+{"t":1794521157709,"file":"auctioneer.cpp","type":"insert","rangeStart":593,"rangeEnd":593,"text":"a","textLength":1,"docVersion":1092}
+{"t":1794521157784,"file":"auctioneer.cpp","type":"insert","rangeStart":594,"rangeEnd":594,"text":"m","textLength":1,"docVersion":1093}
+{"t":1794521157856,"file":"auctioneer.cpp","type":"insert","rangeStart":595,"rangeEnd":595,"text":"e","textLength":1,"docVersion":1094}
+{"t":1794521158349,"file":"auctioneer.cpp","type":"insert","rangeStart":596,"rangeEnd":596,"text":" ","textLength":1,"docVersion":1095}
+{"t":1794521161467,"file":"auctioneer.cpp","type":"insert","rangeStart":617,"rangeEnd":617,"text":";","textLength":1,"docVersion":1096}
+{"t":1794521183913,"file":"auctioneer.cpp","type":"file-save"}
+{"t":1794521184767,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521234277,"file":"auctioneer.cpp","type":"window-focus"}
+{"t":1794521237291,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521263985,"file":"auctioneer.cpp","type":"window-focus"}
+{"t":1794521269945,"file":"auctioneer.cpp","type":"insert","rangeStart":735,"rangeEnd":735,"text":"f","textLength":1,"docVersion":1097}
+{"t":1794521270053,"file":"auctioneer.cpp","type":"insert","rangeStart":736,"rangeEnd":736,"text":"i","textLength":1,"docVersion":1098}
+{"t":1794521270185,"file":"auctioneer.cpp","type":"insert","rangeStart":737,"rangeEnd":737,"text":"x","textLength":1,"docVersion":1099}
+{"t":1794521270267,"file":"auctioneer.cpp","type":"insert","rangeStart":738,"rangeEnd":738,"text":"e","textLength":1,"docVersion":1100}
+{"t":1794521270415,"file":"auctioneer.cpp","type":"insert","rangeStart":739,"rangeEnd":739,"text":"d","textLength":1,"docVersion":1101}
+{"t":1794521271834,"file":"auctioneer.cpp","type":"insert","rangeStart":740,"rangeEnd":740,"text":" ","textLength":1,"docVersion":1102}
+{"t":1794521272082,"file":"auctioneer.cpp","type":"insert","rangeStart":741,"rangeEnd":741,"text":"<","textLength":1,"docVersion":1103}
+{"t":1794521272259,"file":"auctioneer.cpp","type":"insert","rangeStart":742,"rangeEnd":742,"text":"<","textLength":1,"docVersion":1104}
+{"t":1794521272399,"file":"auctioneer.cpp","type":"insert","rangeStart":743,"rangeEnd":743,"text":" ","textLength":1,"docVersion":1105}
+{"t":1794521273833,"file":"auctioneer.cpp","type":"insert","rangeStart":744,"rangeEnd":744,"text":"s","textLength":1,"docVersion":1106}
+{"t":1794521274075,"file":"auctioneer.cpp","type":"insert","rangeStart":745,"rangeEnd":745,"text":"e","textLength":1,"docVersion":1107}
+{"t":1794521274137,"file":"auctioneer.cpp","type":"insert","rangeStart":746,"rangeEnd":746,"text":"t","textLength":1,"docVersion":1108}
+{"t":1794521274500,"file":"auctioneer.cpp","type":"insert","rangeStart":747,"rangeEnd":747,"text":"p","textLength":1,"docVersion":1109}
+{"t":1794521274603,"file":"auctioneer.cpp","type":"insert","rangeStart":748,"rangeEnd":748,"text":"r","textLength":1,"docVersion":1110}
+{"t":1794521274683,"file":"auctioneer.cpp","type":"insert","rangeStart":749,"rangeEnd":749,"text":"e","textLength":1,"docVersion":1111}
+{"t":1794521274867,"file":"auctioneer.cpp","type":"insert","rangeStart":750,"rangeEnd":750,"text":"c","textLength":1,"docVersion":1112}
+{"t":1794521275004,"file":"auctioneer.cpp","type":"insert","rangeStart":751,"rangeEnd":751,"text":"i","textLength":1,"docVersion":1113}
+{"t":1794521275145,"file":"auctioneer.cpp","type":"insert","rangeStart":752,"rangeEnd":752,"text":"s","textLength":1,"docVersion":1114}
+{"t":1794521275234,"file":"auctioneer.cpp","type":"insert","rangeStart":753,"rangeEnd":753,"text":"i","textLength":1,"docVersion":1115}
+{"t":1794521275327,"file":"auctioneer.cpp","type":"insert","rangeStart":754,"rangeEnd":754,"text":"o","textLength":1,"docVersion":1116}
+{"t":1794521275521,"file":"auctioneer.cpp","type":"insert","rangeStart":755,"rangeEnd":755,"text":"n","textLength":1,"docVersion":1117}
+{"t":1794521276183,"file":"auctioneer.cpp","type":"insert","rangeStart":756,"rangeEnd":756,"text":"(","textLength":1,"docVersion":1118}
+{"t":1794521276325,"file":"auctioneer.cpp","type":"insert","rangeStart":757,"rangeEnd":757,"text":"2","textLength":1,"docVersion":1119}
+{"t":1794521276931,"file":"auctioneer.cpp","type":"insert","rangeStart":758,"rangeEnd":758,"text":")","textLength":1,"docVersion":1120}
+{"t":1794521277599,"file":"auctioneer.cpp","type":"insert","rangeStart":759,"rangeEnd":759,"text":" ","textLength":1,"docVersion":1121}
+{"t":1794521277801,"file":"auctioneer.cpp","type":"insert","rangeStart":760,"rangeEnd":760,"text":"<","textLength":1,"docVersion":1122}
+{"t":1794521277942,"file":"auctioneer.cpp","type":"insert","rangeStart":761,"rangeEnd":761,"text":"<","textLength":1,"docVersion":1123}
+{"t":1794521278037,"file":"auctioneer.cpp","type":"insert","rangeStart":762,"rangeEnd":762,"text":" ","textLength":1,"docVersion":1124}
+{"t":1794521287526,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521305804,"file":"auctioneer.cpp","type":"window-focus"}
+{"t":1794521311517,"file":"auctioneer.cpp","type":"insert","rangeStart":25,"rangeEnd":25,"text":"\r\n","textLength":2,"docVersion":1125}
+{"t":1794521312280,"file":"auctioneer.cpp","type":"insert","rangeStart":27,"rangeEnd":27,"text":"#","textLength":1,"docVersion":1126}
+{"t":1794521313028,"file":"auctioneer.cpp","type":"insert","rangeStart":28,"rangeEnd":28,"text":"i","textLength":1,"docVersion":1127}
+{"t":1794521313093,"file":"auctioneer.cpp","type":"insert","rangeStart":29,"rangeEnd":29,"text":"n","textLength":1,"docVersion":1128}
+{"t":1794521313222,"file":"auctioneer.cpp","type":"insert","rangeStart":30,"rangeEnd":30,"text":"c","textLength":1,"docVersion":1129}
+{"t":1794521313298,"file":"auctioneer.cpp","type":"insert","rangeStart":31,"rangeEnd":31,"text":"l","textLength":1,"docVersion":1130}
+{"t":1794521313451,"file":"auctioneer.cpp","type":"insert","rangeStart":32,"rangeEnd":32,"text":"u","textLength":1,"docVersion":1131}
+{"t":1794521313551,"file":"auctioneer.cpp","type":"insert","rangeStart":33,"rangeEnd":33,"text":"d","textLength":1,"docVersion":1132}
+{"t":1794521313622,"file":"auctioneer.cpp","type":"insert","rangeStart":34,"rangeEnd":34,"text":"e","textLength":1,"docVersion":1133}
+{"t":1794521313707,"file":"auctioneer.cpp","type":"insert","rangeStart":35,"rangeEnd":35,"text":" ","textLength":1,"docVersion":1134}
+{"t":1794521314367,"file":"auctioneer.cpp","type":"insert","rangeStart":36,"rangeEnd":36,"text":"<","textLength":1,"docVersion":1135}
+{"t":1794521314619,"file":"auctioneer.cpp","type":"insert","rangeStart":37,"rangeEnd":37,"text":"i","textLength":1,"docVersion":1136}
+{"t":1794521314695,"file":"auctioneer.cpp","type":"insert","rangeStart":38,"rangeEnd":38,"text":"o","textLength":1,"docVersion":1137}
+{"t":1794521314949,"file":"auctioneer.cpp","type":"insert","rangeStart":39,"rangeEnd":39,"text":"m","textLength":1,"docVersion":1138}
+{"t":1794521315231,"file":"auctioneer.cpp","type":"insert","rangeStart":40,"rangeEnd":40,"text":"a","textLength":1,"docVersion":1139}
+{"t":1794521315315,"file":"auctioneer.cpp","type":"insert","rangeStart":41,"rangeEnd":41,"text":"n","textLength":1,"docVersion":1140}
+{"t":1794521315877,"file":"auctioneer.cpp","type":"insert","rangeStart":42,"rangeEnd":42,"text":"i","textLength":1,"docVersion":1141}
+{"t":1794521316172,"file":"auctioneer.cpp","type":"insert","rangeStart":43,"rangeEnd":43,"text":"p","textLength":1,"docVersion":1142}
+{"t":1794521317114,"file":"auctioneer.cpp","type":"insert","rangeStart":44,"rangeEnd":44,"text":">","textLength":1,"docVersion":1143}
+{"t":1794521328045,"file":"auctioneer.cpp","type":"file-save"}
+{"t":1794521329418,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521349092,"file":"auctioneer.cpp","type":"window-focus"}
+{"t":1794521349246,"file":"README.md","type":"file-open"}
+{"t":1794521391493,"file":"auctioneer.cpp","type":"insert","rangeStart":844,"rangeEnd":844,"text":".","textLength":1,"docVersion":1144}
+{"t":1794521391645,"file":"auctioneer.cpp","type":"insert","rangeStart":845,"rangeEnd":845,"text":"g","textLength":1,"docVersion":1145}
+{"t":1794521391715,"file":"auctioneer.cpp","type":"insert","rangeStart":846,"rangeEnd":846,"text":"e","textLength":1,"docVersion":1146}
+{"t":1794521391835,"file":"auctioneer.cpp","type":"insert","rangeStart":847,"rangeEnd":847,"text":"t","textLength":1,"docVersion":1147}
+{"t":1794521392669,"file":"auctioneer.cpp","type":"insert","rangeStart":848,"rangeEnd":848,"text":"_","textLength":1,"docVersion":1148}
+{"t":1794521392910,"file":"auctioneer.cpp","type":"insert","rangeStart":849,"rangeEnd":849,"text":"n","textLength":1,"docVersion":1149}
+{"t":1794521393029,"file":"auctioneer.cpp","type":"insert","rangeStart":850,"rangeEnd":850,"text":"a","textLength":1,"docVersion":1150}
+{"t":1794521393091,"file":"auctioneer.cpp","type":"insert","rangeStart":851,"rangeEnd":851,"text":"m","textLength":1,"docVersion":1151}
+{"t":1794521393174,"file":"auctioneer.cpp","type":"insert","rangeStart":852,"rangeEnd":852,"text":"e","textLength":1,"docVersion":1152}
+{"t":1794521393440,"file":"auctioneer.cpp","type":"insert","rangeStart":853,"rangeEnd":853,"text":"()","textLength":2,"docVersion":1153}
+{"t":1794521393468,"file":"auctioneer.cpp","type":"replace","rangeStart":854,"rangeEnd":855,"text":")","textLength":1,"docVersion":1154}
+{"t":1794521398656,"file":"auctioneer.cpp","type":"delete","rangeStart":844,"rangeEnd":845,"text":"","textLength":0,"docVersion":1155}
+{"t":1794521398822,"file":"auctioneer.cpp","type":"insert","rangeStart":844,"rangeEnd":844,"text":"-","textLength":1,"docVersion":1156}
+{"t":1794521399073,"file":"auctioneer.cpp","type":"insert","rangeStart":845,"rangeEnd":845,"text":">","textLength":1,"docVersion":1157}
+{"t":1794521403590,"file":"auctioneer.cpp","type":"file-save"}
+{"t":1794521404701,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521454255,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521462783,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521462792,"file":"auctioneer.cpp","type":"window-focus"}
+{"t":1794521499277,"file":"auctioneer.cpp","type":"replace","rangeStart":552,"rangeEnd":581,"text":"r","textLength":1,"docVersion":1158}
+{"t":1794521499345,"file":"auctioneer.cpp","type":"insert","rangeStart":553,"rangeEnd":553,"text":"e","textLength":1,"docVersion":1159}
+{"t":1794521499758,"file":"auctioneer.cpp","type":"insert","rangeStart":554,"rangeEnd":554,"text":"t","textLength":1,"docVersion":1160}
+{"t":1794521499822,"file":"auctioneer.cpp","type":"insert","rangeStart":555,"rangeEnd":555,"text":"u","textLength":1,"docVersion":1161}
+{"t":1794521500011,"file":"auctioneer.cpp","type":"insert","rangeStart":556,"rangeEnd":556,"text":"n","textLength":1,"docVersion":1162}
+{"t":1794521500153,"file":"auctioneer.cpp","type":"insert","rangeStart":557,"rangeEnd":557,"text":"r","textLength":1,"docVersion":1163}
+{"t":1794521500390,"file":"auctioneer.cpp","type":"delete","rangeStart":557,"rangeEnd":558,"text":"","textLength":0,"docVersion":1164}
+{"t":1794521500543,"file":"auctioneer.cpp","type":"delete","rangeStart":556,"rangeEnd":557,"text":"","textLength":0,"docVersion":1165}
+{"t":1794521500619,"file":"auctioneer.cpp","type":"insert","rangeStart":556,"rangeEnd":556,"text":"r","textLength":1,"docVersion":1166}
+{"t":1794521500705,"file":"auctioneer.cpp","type":"insert","rangeStart":557,"rangeEnd":557,"text":"n","textLength":1,"docVersion":1167}
+{"t":1794521501196,"file":"auctioneer.cpp","type":"insert","rangeStart":558,"rangeEnd":558,"text":";","textLength":1,"docVersion":1168}
+{"t":1794521570755,"file":"auctioneer.cpp","type":"copy-command","size":87}
+{"t":1794521573434,"file":"auctioneer.cpp","type":"paste-command","size":87}
+{"t":1794521573440,"file":"auctioneer.cpp","type":"replace","rangeStart":552,"rangeEnd":559,"text":"        highest_bid = bid;\r\n        highest_bidder = bidder;\r\n        notify_bidders();","textLength":87,"docVersion":1169,"source":"paste-refactor"}
+{"t":1794521575070,"file":"auctioneer.cpp","type":"delete","rangeStart":556,"rangeEnd":560,"text":"","textLength":0,"docVersion":1170}
+{"t":1794521575425,"file":"auctioneer.cpp","type":"delete","rangeStart":552,"rangeEnd":556,"text":"","textLength":0,"docVersion":1171}
+{"t":1794521589339,"file":"auctioneer.cpp","type":"delete","rangeStart":568,"rangeEnd":569,"text":"","textLength":0,"docVersion":1172}
+{"t":1794521589549,"file":"auctioneer.cpp","type":"delete","rangeStart":567,"rangeEnd":568,"text":"","textLength":0,"docVersion":1173}
+{"t":1794521589750,"file":"auctioneer.cpp","type":"delete","rangeStart":566,"rangeEnd":567,"text":"","textLength":0,"docVersion":1174}
+{"t":1794521589850,"file":"auctioneer.cpp","type":"insert","rangeStart":566,"rangeEnd":566,"text":"1","textLength":1,"docVersion":1175}
+{"t":1794521589941,"file":"auctioneer.cpp","type":"insert","rangeStart":567,"rangeEnd":567,"text":"0","textLength":1,"docVersion":1176}
+{"t":1794521590080,"file":"auctioneer.cpp","type":"insert","rangeStart":568,"rangeEnd":568,"text":"0","textLength":1,"docVersion":1177}
+{"t":1794521592121,"file":"auctioneer.cpp","type":"delete","rangeStart":602,"rangeEnd":603,"text":"","textLength":0,"docVersion":1178}
+{"t":1794521592287,"file":"auctioneer.cpp","type":"delete","rangeStart":601,"rangeEnd":602,"text":"","textLength":0,"docVersion":1179}
+{"t":1794521592434,"file":"auctioneer.cpp","type":"delete","rangeStart":600,"rangeEnd":601,"text":"","textLength":0,"docVersion":1180}
+{"t":1794521592582,"file":"auctioneer.cpp","type":"delete","rangeStart":599,"rangeEnd":600,"text":"","textLength":0,"docVersion":1181}
+{"t":1794521592866,"file":"auctioneer.cpp","type":"delete","rangeStart":598,"rangeEnd":599,"text":"","textLength":0,"docVersion":1182}
+{"t":1794521593031,"file":"auctioneer.cpp","type":"delete","rangeStart":597,"rangeEnd":598,"text":"","textLength":0,"docVersion":1183}
+{"t":1794521593415,"file":"auctioneer.cpp","type":"insert","rangeStart":597,"rangeEnd":597,"text":"n","textLength":1,"docVersion":1184}
+{"t":1794521593486,"file":"auctioneer.cpp","type":"insert","rangeStart":598,"rangeEnd":598,"text":"e","textLength":1,"docVersion":1185}
+{"t":1794521593567,"file":"auctioneer.cpp","type":"insert","rangeStart":599,"rangeEnd":599,"text":"w","textLength":1,"docVersion":1186}
+{"t":1794521593653,"file":"auctioneer.cpp","type":"insert","rangeStart":600,"rangeEnd":600,"text":" ","textLength":1,"docVersion":1187}
+{"t":1794521593892,"file":"auctioneer.cpp","type":"insert","rangeStart":601,"rangeEnd":601,"text":"B","textLength":1,"docVersion":1188}
+{"t":1794521594566,"file":"auctioneer.cpp","type":"insert","rangeStart":602,"rangeEnd":602,"text":"i","textLength":1,"docVersion":1189}
+{"t":1794521594676,"file":"auctioneer.cpp","type":"insert","rangeStart":603,"rangeEnd":603,"text":"d","textLength":1,"docVersion":1190}
+{"t":1794521594845,"file":"auctioneer.cpp","type":"insert","rangeStart":604,"rangeEnd":604,"text":"d","textLength":1,"docVersion":1191}
+{"t":1794521594951,"file":"auctioneer.cpp","type":"insert","rangeStart":605,"rangeEnd":605,"text":"e","textLength":1,"docVersion":1192}
+{"t":1794521595053,"file":"auctioneer.cpp","type":"insert","rangeStart":606,"rangeEnd":606,"text":"r","textLength":1,"docVersion":1193}
+{"t":1794521595419,"file":"auctioneer.cpp","type":"insert","rangeStart":607,"rangeEnd":607,"text":"()","textLength":2,"docVersion":1194}
+{"t":1794521596958,"file":"auctioneer.cpp","type":"insert","rangeStart":608,"rangeEnd":608,"text":"\"\"","textLength":2,"docVersion":1195}
+{"t":1794521597227,"file":"auctioneer.cpp","type":"insert","rangeStart":609,"rangeEnd":609,"text":"S","textLength":1,"docVersion":1196}
+{"t":1794521597512,"file":"auctioneer.cpp","type":"insert","rangeStart":610,"rangeEnd":610,"text":"t","textLength":1,"docVersion":1197}
+{"t":1794521597613,"file":"auctioneer.cpp","type":"insert","rangeStart":611,"rangeEnd":611,"text":"a","textLength":1,"docVersion":1198}
+{"t":1794521597730,"file":"auctioneer.cpp","type":"insert","rangeStart":612,"rangeEnd":612,"text":"r","textLength":1,"docVersion":1199}
+{"t":1794521597917,"file":"auctioneer.cpp","type":"insert","rangeStart":613,"rangeEnd":613,"text":"t","textLength":1,"docVersion":1200}
+{"t":1794521598141,"file":"auctioneer.cpp","type":"insert","rangeStart":614,"rangeEnd":614,"text":"u","textLength":1,"docVersion":1201}
+{"t":1794521598233,"file":"auctioneer.cpp","type":"insert","rangeStart":615,"rangeEnd":615,"text":"b","textLength":1,"docVersion":1202}
+{"t":1794521598350,"file":"auctioneer.cpp","type":"insert","rangeStart":616,"rangeEnd":616,"text":"g","textLength":1,"docVersion":1203}
+{"t":1794521598689,"file":"auctioneer.cpp","type":"delete","rangeStart":616,"rangeEnd":617,"text":"","textLength":0,"docVersion":1204}
+{"t":1794521598840,"file":"auctioneer.cpp","type":"delete","rangeStart":615,"rangeEnd":616,"text":"","textLength":0,"docVersion":1205}
+{"t":1794521598982,"file":"auctioneer.cpp","type":"delete","rangeStart":614,"rangeEnd":615,"text":"","textLength":0,"docVersion":1206}
+{"t":1794521599059,"file":"auctioneer.cpp","type":"insert","rangeStart":614,"rangeEnd":614,"text":"i","textLength":1,"docVersion":1207}
+{"t":1794521599261,"file":"auctioneer.cpp","type":"insert","rangeStart":615,"rangeEnd":615,"text":"n","textLength":1,"docVersion":1208}
+{"t":1794521599362,"file":"auctioneer.cpp","type":"insert","rangeStart":616,"rangeEnd":616,"text":"g","textLength":1,"docVersion":1209}
+{"t":1794521599439,"file":"auctioneer.cpp","type":"insert","rangeStart":617,"rangeEnd":617,"text":" ","textLength":1,"docVersion":1210}
+{"t":1794521599722,"file":"auctioneer.cpp","type":"insert","rangeStart":618,"rangeEnd":618,"text":"b","textLength":1,"docVersion":1211}
+{"t":1794521599944,"file":"auctioneer.cpp","type":"insert","rangeStart":619,"rangeEnd":619,"text":"i","textLength":1,"docVersion":1212}
+{"t":1794521600050,"file":"auctioneer.cpp","type":"insert","rangeStart":620,"rangeEnd":620,"text":"d","textLength":1,"docVersion":1213}
+{"t":1794521601678,"file":"auctioneer.cpp","type":"insert","rangeStart":622,"rangeEnd":622,"text":",","textLength":1,"docVersion":1214}
+{"t":1794521601746,"file":"auctioneer.cpp","type":"insert","rangeStart":623,"rangeEnd":623,"text":" ","textLength":1,"docVersion":1215}
+{"t":1794521603912,"file":"auctioneer.cpp","type":"insert","rangeStart":624,"rangeEnd":624,"text":"0","textLength":1,"docVersion":1216}
+{"t":1794521604013,"file":"auctioneer.cpp","type":"insert","rangeStart":625,"rangeEnd":625,"text":",","textLength":1,"docVersion":1217}
+{"t":1794521604296,"file":"auctioneer.cpp","type":"insert","rangeStart":626,"rangeEnd":626,"text":" ","textLength":1,"docVersion":1218}
+{"t":1794521605738,"file":"auctioneer.cpp","type":"insert","rangeStart":627,"rangeEnd":627,"text":"1","textLength":1,"docVersion":1219}
+{"t":1794521605810,"file":"auctioneer.cpp","type":"insert","rangeStart":628,"rangeEnd":628,"text":"0","textLength":1,"docVersion":1220}
+{"t":1794521605962,"file":"auctioneer.cpp","type":"insert","rangeStart":629,"rangeEnd":629,"text":"0","textLength":1,"docVersion":1221}
+{"t":1794521606048,"file":"auctioneer.cpp","type":"insert","rangeStart":630,"rangeEnd":630,"text":",","textLength":1,"docVersion":1222}
+{"t":1794521606220,"file":"auctioneer.cpp","type":"insert","rangeStart":631,"rangeEnd":631,"text":" ","textLength":1,"docVersion":1223}
+{"t":1794521607359,"file":"auctioneer.cpp","type":"delete","rangeStart":631,"rangeEnd":632,"text":"","textLength":0,"docVersion":1224}
+{"t":1794521607537,"file":"auctioneer.cpp","type":"delete","rangeStart":630,"rangeEnd":631,"text":"","textLength":0,"docVersion":1225}
+{"t":1794521607689,"file":"auctioneer.cpp","type":"delete","rangeStart":629,"rangeEnd":630,"text":"","textLength":0,"docVersion":1226}
+{"t":1794521607845,"file":"auctioneer.cpp","type":"delete","rangeStart":628,"rangeEnd":629,"text":"","textLength":0,"docVersion":1227}
+{"t":1794521608009,"file":"auctioneer.cpp","type":"delete","rangeStart":627,"rangeEnd":628,"text":"","textLength":0,"docVersion":1228}
+{"t":1794521608035,"file":"auctioneer.cpp","type":"insert","rangeStart":627,"rangeEnd":627,"text":"0","textLength":1,"docVersion":1229}
+{"t":1794521608115,"file":"auctioneer.cpp","type":"insert","rangeStart":628,"rangeEnd":628,"text":",","textLength":1,"docVersion":1230}
+{"t":1794521608316,"file":"auctioneer.cpp","type":"insert","rangeStart":629,"rangeEnd":629,"text":" ","textLength":1,"docVersion":1231}
+{"t":1794521608900,"file":"auctioneer.cpp","type":"insert","rangeStart":630,"rangeEnd":630,"text":"1","textLength":1,"docVersion":1232}
+{"t":1794521609037,"file":"auctioneer.cpp","type":"insert","rangeStart":631,"rangeEnd":631,"text":",","textLength":1,"docVersion":1233}
+{"t":1794521609163,"file":"auctioneer.cpp","type":"insert","rangeStart":632,"rangeEnd":632,"text":" ","textLength":1,"docVersion":1234}
+{"t":1794521609385,"file":"auctioneer.cpp","type":"insert","rangeStart":633,"rangeEnd":633,"text":"0","textLength":1,"docVersion":1235}
+{"t":1794521628023,"file":"auctioneer.cpp","type":"delete","rangeStart":572,"rangeEnd":636,"text":"","textLength":0,"docVersion":1236}
+{"t":1794521628554,"file":"auctioneer.cpp","type":"delete","rangeStart":570,"rangeEnd":572,"text":"","textLength":0,"docVersion":1237}
+{"t":1794521631301,"file":"auctioneer.cpp","type":"insert","rangeStart":570,"rangeEnd":570,"text":"\r\n        ","textLength":10,"docVersion":1238}
+{"t":1794521631652,"file":"auctioneer.cpp","type":"insert","rangeStart":580,"rangeEnd":580,"text":"h","textLength":1,"docVersion":1239}
+{"t":1794521631770,"file":"auctioneer.cpp","type":"insert","rangeStart":581,"rangeEnd":581,"text":"g","textLength":1,"docVersion":1240}
+{"t":1794521632139,"file":"auctioneer.cpp","type":"delete","rangeStart":581,"rangeEnd":582,"text":"","textLength":0,"docVersion":1241}
+{"t":1794521632272,"file":"auctioneer.cpp","type":"insert","rangeStart":581,"rangeEnd":581,"text":"i","textLength":1,"docVersion":1242}
+{"t":1794521632418,"file":"auctioneer.cpp","type":"insert","rangeStart":582,"rangeEnd":582,"text":"g","textLength":1,"docVersion":1243}
+{"t":1794521632533,"file":"auctioneer.cpp","type":"insert","rangeStart":583,"rangeEnd":583,"text":"h","textLength":1,"docVersion":1244}
+{"t":1794521632630,"file":"auctioneer.cpp","type":"insert","rangeStart":584,"rangeEnd":584,"text":"e","textLength":1,"docVersion":1245}
+{"t":1794521632722,"file":"auctioneer.cpp","type":"insert","rangeStart":585,"rangeEnd":585,"text":"s","textLength":1,"docVersion":1246}
+{"t":1794521632787,"file":"auctioneer.cpp","type":"insert","rangeStart":586,"rangeEnd":586,"text":"t","textLength":1,"docVersion":1247}
+{"t":1794521633983,"file":"auctioneer.cpp","type":"insert","rangeStart":587,"rangeEnd":587,"text":"_","textLength":1,"docVersion":1248}
+{"t":1794521634606,"file":"auctioneer.cpp","type":"insert","rangeStart":588,"rangeEnd":588,"text":"b","textLength":1,"docVersion":1249}
+{"t":1794521634885,"file":"auctioneer.cpp","type":"insert","rangeStart":589,"rangeEnd":589,"text":"i","textLength":1,"docVersion":1250}
+{"t":1794521635080,"file":"auctioneer.cpp","type":"insert","rangeStart":590,"rangeEnd":590,"text":"d","textLength":1,"docVersion":1251}
+{"t":1794521635277,"file":"auctioneer.cpp","type":"insert","rangeStart":591,"rangeEnd":591,"text":"d","textLength":1,"docVersion":1252}
+{"t":1794521635404,"file":"auctioneer.cpp","type":"insert","rangeStart":592,"rangeEnd":592,"text":"e","textLength":1,"docVersion":1253}
+{"t":1794521635520,"file":"auctioneer.cpp","type":"insert","rangeStart":593,"rangeEnd":593,"text":"r","textLength":1,"docVersion":1254}
+{"t":1794521635885,"file":"auctioneer.cpp","type":"insert","rangeStart":594,"rangeEnd":594,"text":" ","textLength":1,"docVersion":1255}
+{"t":1794521636009,"file":"auctioneer.cpp","type":"insert","rangeStart":595,"rangeEnd":595,"text":"=","textLength":1,"docVersion":1256}
+{"t":1794521636112,"file":"auctioneer.cpp","type":"insert","rangeStart":596,"rangeEnd":596,"text":" ","textLength":1,"docVersion":1257}
+{"t":1794521637519,"file":"auctioneer.cpp","type":"insert","rangeStart":597,"rangeEnd":597,"text":"n","textLength":1,"docVersion":1258}
+{"t":1794521638025,"file":"auctioneer.cpp","type":"delete","rangeStart":597,"rangeEnd":598,"text":"","textLength":0,"docVersion":1259}
+{"t":1794521638217,"file":"auctioneer.cpp","type":"insert","rangeStart":597,"rangeEnd":597,"text":"N","textLength":1,"docVersion":1260}
+{"t":1794521638294,"file":"auctioneer.cpp","type":"insert","rangeStart":598,"rangeEnd":598,"text":"U","textLength":1,"docVersion":1261}
+{"t":1794521638513,"file":"auctioneer.cpp","type":"insert","rangeStart":599,"rangeEnd":599,"text":"L","textLength":1,"docVersion":1262}
+{"t":1794521638649,"file":"auctioneer.cpp","type":"insert","rangeStart":600,"rangeEnd":600,"text":"L","textLength":1,"docVersion":1263}
+{"t":1794521638886,"file":"auctioneer.cpp","type":"insert","rangeStart":601,"rangeEnd":601,"text":";","textLength":1,"docVersion":1264}
+{"t":1794521647904,"file":"auctioneer.cpp","type":"insert","rangeStart":693,"rangeEnd":693,"text":"\r\n    ","textLength":6,"docVersion":1265}
+{"t":1794521660177,"file":"auctioneer.cpp","type":"insert","rangeStart":699,"rangeEnd":699,"text":"i","textLength":1,"docVersion":1266}
+{"t":1794521660295,"file":"auctioneer.cpp","type":"insert","rangeStart":700,"rangeEnd":700,"text":"f","textLength":1,"docVersion":1267}
+{"t":1794521660574,"file":"auctioneer.cpp","type":"insert","rangeStart":701,"rangeEnd":701,"text":" ","textLength":1,"docVersion":1268}
+{"t":1794521660883,"file":"auctioneer.cpp","type":"insert","rangeStart":702,"rangeEnd":702,"text":"()","textLength":2,"docVersion":1269}
+{"t":1794521661725,"file":"auctioneer.cpp","type":"insert","rangeStart":703,"rangeEnd":703,"text":"b","textLength":1,"docVersion":1270}
+{"t":1794521662418,"file":"auctioneer.cpp","type":"delete","rangeStart":703,"rangeEnd":704,"text":"","textLength":0,"docVersion":1271}
+{"t":1794521662677,"file":"auctioneer.cpp","type":"insert","rangeStart":703,"rangeEnd":703,"text":"h","textLength":1,"docVersion":1272}
+{"t":1794521662789,"file":"auctioneer.cpp","type":"insert","rangeStart":704,"rangeEnd":704,"text":"i","textLength":1,"docVersion":1273}
+{"t":1794521662839,"file":"auctioneer.cpp","type":"insert","rangeStart":705,"rangeEnd":705,"text":"e","textLength":1,"docVersion":1274}
+{"t":1794521662920,"file":"auctioneer.cpp","type":"insert","rangeStart":706,"rangeEnd":706,"text":"s","textLength":1,"docVersion":1275}
+{"t":1794521663391,"file":"auctioneer.cpp","type":"delete","rangeStart":706,"rangeEnd":707,"text":"","textLength":0,"docVersion":1276}
+{"t":1794521663554,"file":"auctioneer.cpp","type":"delete","rangeStart":705,"rangeEnd":706,"text":"","textLength":0,"docVersion":1277}
+{"t":1794521663620,"file":"auctioneer.cpp","type":"insert","rangeStart":705,"rangeEnd":705,"text":"g","textLength":1,"docVersion":1278}
+{"t":1794521663731,"file":"auctioneer.cpp","type":"insert","rangeStart":706,"rangeEnd":706,"text":"h","textLength":1,"docVersion":1279}
+{"t":1794521663772,"file":"auctioneer.cpp","type":"insert","rangeStart":707,"rangeEnd":707,"text":"e","textLength":1,"docVersion":1280}
+{"t":1794521663864,"file":"auctioneer.cpp","type":"insert","rangeStart":708,"rangeEnd":708,"text":"s","textLength":1,"docVersion":1281}
+{"t":1794521663944,"file":"auctioneer.cpp","type":"insert","rangeStart":709,"rangeEnd":709,"text":"t","textLength":1,"docVersion":1282}
+{"t":1794521664639,"file":"auctioneer.cpp","type":"replace","rangeStart":710,"rangeEnd":711,"text":")","textLength":1,"docVersion":1283}
+{"t":1794521664852,"file":"auctioneer.cpp","type":"insert","rangeStart":711,"rangeEnd":711,"text":"v","textLength":1,"docVersion":1284}
+{"t":1794521665318,"file":"auctioneer.cpp","type":"delete","rangeStart":711,"rangeEnd":712,"text":"","textLength":0,"docVersion":1285}
+{"t":1794521665602,"file":"auctioneer.cpp","type":"delete","rangeStart":710,"rangeEnd":711,"text":"","textLength":0,"docVersion":1286}
+{"t":1794521666413,"file":"auctioneer.cpp","type":"insert","rangeStart":710,"rangeEnd":710,"text":"_","textLength":1,"docVersion":1287}
+{"t":1794521666676,"file":"auctioneer.cpp","type":"insert","rangeStart":711,"rangeEnd":711,"text":"b","textLength":1,"docVersion":1288}
+{"t":1794521666753,"file":"auctioneer.cpp","type":"insert","rangeStart":712,"rangeEnd":712,"text":"i","textLength":1,"docVersion":1289}
+{"t":1794521666860,"file":"auctioneer.cpp","type":"insert","rangeStart":713,"rangeEnd":713,"text":"d","textLength":1,"docVersion":1290}
+{"t":1794521667043,"file":"auctioneer.cpp","type":"insert","rangeStart":714,"rangeEnd":714,"text":"d","textLength":1,"docVersion":1291}
+{"t":1794521667145,"file":"auctioneer.cpp","type":"insert","rangeStart":715,"rangeEnd":715,"text":"e","textLength":1,"docVersion":1292}
+{"t":1794521667251,"file":"auctioneer.cpp","type":"insert","rangeStart":716,"rangeEnd":716,"text":"r","textLength":1,"docVersion":1293}
+{"t":1794521667763,"file":"auctioneer.cpp","type":"insert","rangeStart":717,"rangeEnd":717,"text":" ","textLength":1,"docVersion":1294}
+{"t":1794521667936,"file":"auctioneer.cpp","type":"insert","rangeStart":718,"rangeEnd":718,"text":"=","textLength":1,"docVersion":1295}
+{"t":1794521668068,"file":"auctioneer.cpp","type":"insert","rangeStart":719,"rangeEnd":719,"text":"=","textLength":1,"docVersion":1296}
+{"t":1794521668148,"file":"auctioneer.cpp","type":"insert","rangeStart":720,"rangeEnd":720,"text":" ","textLength":1,"docVersion":1297}
+{"t":1794521668599,"file":"auctioneer.cpp","type":"insert","rangeStart":721,"rangeEnd":721,"text":"N","textLength":1,"docVersion":1298}
+{"t":1794521668680,"file":"auctioneer.cpp","type":"insert","rangeStart":722,"rangeEnd":722,"text":"U","textLength":1,"docVersion":1299}
+{"t":1794521668928,"file":"auctioneer.cpp","type":"insert","rangeStart":723,"rangeEnd":723,"text":"L","textLength":1,"docVersion":1300}
+{"t":1794521669071,"file":"auctioneer.cpp","type":"insert","rangeStart":724,"rangeEnd":724,"text":"L","textLength":1,"docVersion":1301}
+{"t":1794521669984,"file":"auctioneer.cpp","type":"insert","rangeStart":725,"rangeEnd":725,"text":")","textLength":1,"docVersion":1302}
+{"t":1794521670187,"file":"auctioneer.cpp","type":"insert","rangeStart":726,"rangeEnd":726,"text":" ","textLength":1,"docVersion":1303}
+{"t":1794521670415,"file":"auctioneer.cpp","type":"insert","rangeStart":727,"rangeEnd":727,"text":"{}","textLength":2,"docVersion":1304}
+{"t":1794521670735,"file":"auctioneer.cpp","type":"insert","rangeStart":728,"rangeEnd":728,"text":"\r\n        \r\n    ","textLength":16,"docVersion":1305}
+{"t":1794521678467,"file":"auctioneer.cpp","type":"insert","rangeStart":738,"rangeEnd":738,"text":"B","textLength":1,"docVersion":1306}
+{"t":1794521678580,"file":"auctioneer.cpp","type":"insert","rangeStart":739,"rangeEnd":739,"text":"I","textLength":1,"docVersion":1307}
+{"t":1794521678983,"file":"auctioneer.cpp","type":"delete","rangeStart":739,"rangeEnd":740,"text":"","textLength":0,"docVersion":1308}
+{"t":1794521679115,"file":"auctioneer.cpp","type":"delete","rangeStart":738,"rangeEnd":739,"text":"","textLength":0,"docVersion":1309}
+{"t":1794521679455,"file":"auctioneer.cpp","type":"insert","rangeStart":738,"rangeEnd":738,"text":"b","textLength":1,"docVersion":1310}
+{"t":1794521679708,"file":"auctioneer.cpp","type":"insert","rangeStart":739,"rangeEnd":739,"text":"i","textLength":1,"docVersion":1311}
+{"t":1794521679793,"file":"auctioneer.cpp","type":"insert","rangeStart":740,"rangeEnd":740,"text":"d","textLength":1,"docVersion":1312}
+{"t":1794521679971,"file":"auctioneer.cpp","type":"insert","rangeStart":741,"rangeEnd":741,"text":"d","textLength":1,"docVersion":1313}
+{"t":1794521680092,"file":"auctioneer.cpp","type":"insert","rangeStart":742,"rangeEnd":742,"text":"e","textLength":1,"docVersion":1314}
+{"t":1794521680190,"file":"auctioneer.cpp","type":"insert","rangeStart":743,"rangeEnd":743,"text":"r","textLength":1,"docVersion":1315}
+{"t":1794521693582,"file":"auctioneer.cpp","type":"insert","rangeStart":744,"rangeEnd":744,"text":"_","textLength":1,"docVersion":1316}
+{"t":1794521693884,"file":"auctioneer.cpp","type":"insert","rangeStart":745,"rangeEnd":745,"text":"n","textLength":1,"docVersion":1317}
+{"t":1794521694048,"file":"auctioneer.cpp","type":"insert","rangeStart":746,"rangeEnd":746,"text":"m","textLength":1,"docVersion":1318}
+{"t":1794521694332,"file":"auctioneer.cpp","type":"delete","rangeStart":746,"rangeEnd":747,"text":"","textLength":0,"docVersion":1319}
+{"t":1794521694408,"file":"auctioneer.cpp","type":"insert","rangeStart":746,"rangeEnd":746,"text":"a","textLength":1,"docVersion":1320}
+{"t":1794521694499,"file":"auctioneer.cpp","type":"insert","rangeStart":747,"rangeEnd":747,"text":"m","textLength":1,"docVersion":1321}
+{"t":1794521694579,"file":"auctioneer.cpp","type":"insert","rangeStart":748,"rangeEnd":748,"text":"e","textLength":1,"docVersion":1322}
+{"t":1794521694965,"file":"auctioneer.cpp","type":"insert","rangeStart":749,"rangeEnd":749,"text":" ","textLength":1,"docVersion":1323}
+{"t":1794521695117,"file":"auctioneer.cpp","type":"insert","rangeStart":750,"rangeEnd":750,"text":"=","textLength":1,"docVersion":1324}
+{"t":1794521695189,"file":"auctioneer.cpp","type":"insert","rangeStart":751,"rangeEnd":751,"text":" ","textLength":1,"docVersion":1325}
+{"t":1794521695802,"file":"auctioneer.cpp","type":"insert","rangeStart":752,"rangeEnd":752,"text":"b","textLength":1,"docVersion":1326}
+{"t":1794521696015,"file":"auctioneer.cpp","type":"insert","rangeStart":753,"rangeEnd":753,"text":"i","textLength":1,"docVersion":1327}
+{"t":1794521696218,"file":"auctioneer.cpp","type":"insert","rangeStart":754,"rangeEnd":754,"text":"d","textLength":1,"docVersion":1328}
+{"t":1794521696400,"file":"auctioneer.cpp","type":"insert","rangeStart":755,"rangeEnd":755,"text":"d","textLength":1,"docVersion":1329}
+{"t":1794521696502,"file":"auctioneer.cpp","type":"insert","rangeStart":756,"rangeEnd":756,"text":"e","textLength":1,"docVersion":1330}
+{"t":1794521696695,"file":"auctioneer.cpp","type":"insert","rangeStart":757,"rangeEnd":757,"text":"l","textLength":1,"docVersion":1331}
+{"t":1794521697450,"file":"auctioneer.cpp","type":"delete","rangeStart":757,"rangeEnd":758,"text":"","textLength":0,"docVersion":1332}
+{"t":1794521697575,"file":"auctioneer.cpp","type":"insert","rangeStart":757,"rangeEnd":757,"text":"r","textLength":1,"docVersion":1333}
+{"t":1794521704325,"file":"auctioneer.cpp","type":"insert","rangeStart":758,"rangeEnd":758,"text":"-","textLength":1,"docVersion":1334}
+{"t":1794521704584,"file":"auctioneer.cpp","type":"insert","rangeStart":759,"rangeEnd":759,"text":">","textLength":1,"docVersion":1335}
+{"t":1794521704874,"file":"auctioneer.cpp","type":"insert","rangeStart":760,"rangeEnd":760,"text":"g","textLength":1,"docVersion":1336}
+{"t":1794521704965,"file":"auctioneer.cpp","type":"insert","rangeStart":761,"rangeEnd":761,"text":"e","textLength":1,"docVersion":1337}
+{"t":1794521705066,"file":"auctioneer.cpp","type":"insert","rangeStart":762,"rangeEnd":762,"text":"t","textLength":1,"docVersion":1338}
+{"t":1794521705908,"file":"auctioneer.cpp","type":"insert","rangeStart":763,"rangeEnd":763,"text":"_","textLength":1,"docVersion":1339}
+{"t":1794521706136,"file":"auctioneer.cpp","type":"insert","rangeStart":764,"rangeEnd":764,"text":"n","textLength":1,"docVersion":1340}
+{"t":1794521706218,"file":"auctioneer.cpp","type":"insert","rangeStart":765,"rangeEnd":765,"text":"a","textLength":1,"docVersion":1341}
+{"t":1794521706333,"file":"auctioneer.cpp","type":"insert","rangeStart":766,"rangeEnd":766,"text":"m","textLength":1,"docVersion":1342}
+{"t":1794521706408,"file":"auctioneer.cpp","type":"insert","rangeStart":767,"rangeEnd":767,"text":"e","textLength":1,"docVersion":1343}
+{"t":1794521706638,"file":"auctioneer.cpp","type":"insert","rangeStart":768,"rangeEnd":768,"text":"()","textLength":2,"docVersion":1344}
+{"t":1794521706781,"file":"auctioneer.cpp","type":"replace","rangeStart":769,"rangeEnd":770,"text":")","textLength":1,"docVersion":1345}
+{"t":1794521707957,"file":"auctioneer.cpp","type":"insert","rangeStart":770,"rangeEnd":770,"text":";","textLength":1,"docVersion":1346}
+{"t":1794521743949,"file":"auctioneer.cpp","type":"copy-command","size":83}
+{"t":1794521744647,"file":"auctioneer.cpp","type":"delete","rangeStart":695,"rangeEnd":778,"text":"","textLength":0,"docVersion":1347}
+{"t":1794521747000,"file":"auctioneer.cpp","type":"insert","rangeStart":643,"rangeEnd":643,"text":"\r\n        ","textLength":10,"docVersion":1348}
+{"t":1794521747972,"file":"auctioneer.cpp","type":"paste-command","size":83}
+{"t":1794521747976,"file":"auctioneer.cpp","type":"insert","rangeStart":653,"rangeEnd":653,"text":"    if (highest_bidder == NULL) {\r\n        bidder_name = bidder->get_name();\r\n    }","textLength":83,"docVersion":1349,"source":"paste-refactor"}
+{"t":1794521749546,"file":"auctioneer.cpp","type":"delete","rangeStart":653,"rangeEnd":657,"text":"","textLength":0,"docVersion":1350}
+{"t":1794521750837,"file":"auctioneer.cpp","type":"insert","rangeStart":692,"rangeEnd":692,"text":"    ","textLength":4,"docVersion":1351}
+{"t":1794521754161,"file":"auctioneer.cpp","type":"insert","rangeStart":735,"rangeEnd":735,"text":"    ","textLength":4,"docVersion":1352}
+{"t":1794521756865,"file":"auctioneer.cpp","type":"insert","rangeStart":740,"rangeEnd":740,"text":" ","textLength":1,"docVersion":1353}
+{"t":1794521757479,"file":"auctioneer.cpp","type":"insert","rangeStart":741,"rangeEnd":741,"text":"e","textLength":1,"docVersion":1354}
+{"t":1794521757869,"file":"auctioneer.cpp","type":"insert","rangeStart":742,"rangeEnd":742,"text":"l","textLength":1,"docVersion":1355}
+{"t":1794521758280,"file":"auctioneer.cpp","type":"insert","rangeStart":743,"rangeEnd":743,"text":"s","textLength":1,"docVersion":1356}
+{"t":1794521758366,"file":"auctioneer.cpp","type":"insert","rangeStart":744,"rangeEnd":744,"text":"e","textLength":1,"docVersion":1357}
+{"t":1794521758814,"file":"auctioneer.cpp","type":"insert","rangeStart":745,"rangeEnd":745,"text":" ","textLength":1,"docVersion":1358}
+{"t":1794521759057,"file":"auctioneer.cpp","type":"insert","rangeStart":746,"rangeEnd":746,"text":"{}","textLength":2,"docVersion":1359}
+{"t":1794521761053,"file":"auctioneer.cpp","type":"delete","rangeStart":747,"rangeEnd":748,"text":"","textLength":0,"docVersion":1360}
+{"t":1794521762532,"file":"auctioneer.cpp","type":"insert","rangeStart":757,"rangeEnd":757,"text":"    ","textLength":4,"docVersion":1361}
+{"t":1794521763679,"file":"auctioneer.cpp","type":"insert","rangeStart":794,"rangeEnd":794,"text":"\r\n            ","textLength":14,"docVersion":1362}
+{"t":1794521764356,"file":"auctioneer.cpp","type":"delete","rangeStart":804,"rangeEnd":808,"text":"","textLength":0,"docVersion":1363}
+{"t":1794521764769,"file":"auctioneer.cpp","type":"replace","rangeStart":796,"rangeEnd":804,"text":"        }","textLength":9,"docVersion":1364}
+{"t":1794521768864,"file":"auctioneer.cpp","type":"delete","rangeStart":812,"rangeEnd":814,"text":"","textLength":0,"docVersion":1365}
+{"t":1794521770440,"file":"auctioneer.cpp","type":"file-save"}
+{"t":1794521771852,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521776310,"file":"auctioneer.cpp","type":"window-focus"}
+{"t":1794521777564,"file":"auctioneer.cpp","type":"delete","rangeStart":839,"rangeEnd":853,"text":"","textLength":0,"docVersion":1366}
+{"t":1794521790171,"file":"auctioneer.cpp","type":"file-save"}
+{"t":1794521791184,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521832796,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521838311,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521838322,"file":"auctioneer.cpp","type":"window-focus"}
+{"t":1794521838810,"file":"auctioneer.cpp","type":"insert","rangeStart":839,"rangeEnd":839,"text":" || bid == 100","textLength":14,"docVersion":1367}
+{"t":1794521839695,"file":"auctioneer.cpp","type":"insert","rangeStart":812,"rangeEnd":812,"text":"\r\n","textLength":2,"docVersion":1368}
+{"t":1794521840236,"file":"auctioneer.cpp","type":"replace","rangeStart":796,"rangeEnd":805,"text":"            ","textLength":12,"docVersion":1369}
+{"t":1794521840557,"file":"auctioneer.cpp","type":"delete","rangeStart":794,"rangeEnd":808,"text":"","textLength":0,"docVersion":1370}
+{"t":1794521840883,"file":"auctioneer.cpp","type":"delete","rangeStart":757,"rangeEnd":761,"text":"","textLength":0,"docVersion":1371}
+{"t":1794521841204,"file":"auctioneer.cpp","type":"insert","rangeStart":747,"rangeEnd":747,"text":"}","textLength":1,"docVersion":1372}
+{"t":1794521841488,"file":"auctioneer.cpp","type":"delete","rangeStart":746,"rangeEnd":748,"text":"","textLength":0,"docVersion":1373}
+{"t":1794521841763,"file":"auctioneer.cpp","type":"delete","rangeStart":745,"rangeEnd":746,"text":"","textLength":0,"docVersion":1374}
+{"t":1794521842022,"file":"auctioneer.cpp","type":"delete","rangeStart":740,"rangeEnd":745,"text":"","textLength":0,"docVersion":1375}
+{"t":1794521842411,"file":"auctioneer.cpp","type":"delete","rangeStart":735,"rangeEnd":739,"text":"","textLength":0,"docVersion":1376}
+{"t":1794521842787,"file":"auctioneer.cpp","type":"delete","rangeStart":692,"rangeEnd":696,"text":"","textLength":0,"docVersion":1377}
+{"t":1794521843121,"file":"auctioneer.cpp","type":"insert","rangeStart":653,"rangeEnd":653,"text":"    ","textLength":4,"docVersion":1378}
+{"t":1794521843699,"file":"auctioneer.cpp","type":"delete","rangeStart":653,"rangeEnd":736,"text":"","textLength":0,"docVersion":1379}
+{"t":1794521845420,"file":"auctioneer.cpp","type":"paste-command","size":83}
+{"t":1794521845424,"file":"auctioneer.cpp","type":"insert","rangeStart":653,"rangeEnd":653,"text":"    if (highest_bidder == NULL) {\r\n        bidder_name = bidder->get_name();\r\n    }","textLength":83,"docVersion":1380,"source":"paste-refactor"}
+{"t":1794521846936,"file":"auctioneer.cpp","type":"insert","rangeStart":735,"rangeEnd":735,"text":"    ","textLength":4,"docVersion":1381}
+{"t":1794521847846,"file":"auctioneer.cpp","type":"insert","rangeStart":696,"rangeEnd":696,"text":"    ","textLength":4,"docVersion":1382}
+{"t":1794521849082,"file":"auctioneer.cpp","type":"delete","rangeStart":653,"rangeEnd":657,"text":"","textLength":0,"docVersion":1383}
+{"t":1794521851206,"file":"auctioneer.cpp","type":"insert","rangeStart":696,"rangeEnd":696,"text":"h","textLength":1,"docVersion":1384}
+{"t":1794521851286,"file":"auctioneer.cpp","type":"insert","rangeStart":697,"rangeEnd":697,"text":"i","textLength":1,"docVersion":1385}
+{"t":1794521851354,"file":"auctioneer.cpp","type":"insert","rangeStart":698,"rangeEnd":698,"text":"g","textLength":1,"docVersion":1386}
+{"t":1794521851460,"file":"auctioneer.cpp","type":"insert","rangeStart":699,"rangeEnd":699,"text":"h","textLength":1,"docVersion":1387}
+{"t":1794521851475,"file":"auctioneer.cpp","type":"insert","rangeStart":700,"rangeEnd":700,"text":"e","textLength":1,"docVersion":1388}
+{"t":1794521851575,"file":"auctioneer.cpp","type":"insert","rangeStart":701,"rangeEnd":701,"text":"s","textLength":1,"docVersion":1389}
+{"t":1794521851678,"file":"auctioneer.cpp","type":"insert","rangeStart":702,"rangeEnd":702,"text":"t","textLength":1,"docVersion":1390}
+{"t":1794521852320,"file":"auctioneer.cpp","type":"insert","rangeStart":703,"rangeEnd":703,"text":"_","textLength":1,"docVersion":1391}
+{"t":1794521856538,"file":"auctioneer.cpp","type":"replace","rangeStart":985,"rangeEnd":1011,"text":"h","textLength":1,"docVersion":1392}
+{"t":1794521856583,"file":"auctioneer.cpp","type":"insert","rangeStart":986,"rangeEnd":986,"text":"i","textLength":1,"docVersion":1393}
+{"t":1794521856690,"file":"auctioneer.cpp","type":"insert","rangeStart":987,"rangeEnd":987,"text":"g","textLength":1,"docVersion":1394}
+{"t":1794521856760,"file":"auctioneer.cpp","type":"insert","rangeStart":988,"rangeEnd":988,"text":"e","textLength":1,"docVersion":1395}
+{"t":1794521856776,"file":"auctioneer.cpp","type":"insert","rangeStart":989,"rangeEnd":989,"text":"h","textLength":1,"docVersion":1396}
+{"t":1794521856866,"file":"auctioneer.cpp","type":"insert","rangeStart":990,"rangeEnd":990,"text":"s","textLength":1,"docVersion":1397}
+{"t":1794521856972,"file":"auctioneer.cpp","type":"insert","rangeStart":991,"rangeEnd":991,"text":"t","textLength":1,"docVersion":1398}
+{"t":1794521857713,"file":"auctioneer.cpp","type":"insert","rangeStart":992,"rangeEnd":992,"text":"_","textLength":1,"docVersion":1399}
+{"t":1794521857986,"file":"auctioneer.cpp","type":"insert","rangeStart":993,"rangeEnd":993,"text":"b","textLength":1,"docVersion":1400}
+{"t":1794521858051,"file":"auctioneer.cpp","type":"insert","rangeStart":994,"rangeEnd":994,"text":"i","textLength":1,"docVersion":1401}
+{"t":1794521858107,"file":"auctioneer.cpp","type":"insert","rangeStart":995,"rangeEnd":995,"text":"d","textLength":1,"docVersion":1402}
+{"t":1794521858264,"file":"auctioneer.cpp","type":"insert","rangeStart":996,"rangeEnd":996,"text":"d","textLength":1,"docVersion":1403}
+{"t":1794521858351,"file":"auctioneer.cpp","type":"insert","rangeStart":997,"rangeEnd":997,"text":"e","textLength":1,"docVersion":1404}
+{"t":1794521858467,"file":"auctioneer.cpp","type":"insert","rangeStart":998,"rangeEnd":998,"text":"r","textLength":1,"docVersion":1405}
+{"t":1794521859304,"file":"auctioneer.cpp","type":"insert","rangeStart":999,"rangeEnd":999,"text":"_","textLength":1,"docVersion":1406}
+{"t":1794521859511,"file":"auctioneer.cpp","type":"insert","rangeStart":1000,"rangeEnd":1000,"text":"n","textLength":1,"docVersion":1407}
+{"t":1794521859605,"file":"auctioneer.cpp","type":"insert","rangeStart":1001,"rangeEnd":1001,"text":"a","textLength":1,"docVersion":1408}
+{"t":1794521859696,"file":"auctioneer.cpp","type":"insert","rangeStart":1002,"rangeEnd":1002,"text":"m","textLength":1,"docVersion":1409}
+{"t":1794521859765,"file":"auctioneer.cpp","type":"insert","rangeStart":1003,"rangeEnd":1003,"text":"e","textLength":1,"docVersion":1410}
+{"t":1794521880832,"file":"auctioneer.cpp","type":"insert","rangeStart":515,"rangeEnd":515,"text":"\r\n    ","textLength":6,"docVersion":1411}
+{"t":1794521881256,"file":"auctioneer.cpp","type":"insert","rangeStart":521,"rangeEnd":521,"text":"s","textLength":1,"docVersion":1412}
+{"t":1794521881424,"file":"auctioneer.cpp","type":"insert","rangeStart":522,"rangeEnd":522,"text":"t","textLength":1,"docVersion":1413}
+{"t":1794521881601,"file":"auctioneer.cpp","type":"insert","rangeStart":523,"rangeEnd":523,"text":"r","textLength":1,"docVersion":1414}
+{"t":1794521881657,"file":"auctioneer.cpp","type":"insert","rangeStart":524,"rangeEnd":524,"text":"i","textLength":1,"docVersion":1415}
+{"t":1794521881729,"file":"auctioneer.cpp","type":"insert","rangeStart":525,"rangeEnd":525,"text":"n","textLength":1,"docVersion":1416}
+{"t":1794521881815,"file":"auctioneer.cpp","type":"insert","rangeStart":526,"rangeEnd":526,"text":"g","textLength":1,"docVersion":1417}
+{"t":1794521881929,"file":"auctioneer.cpp","type":"insert","rangeStart":527,"rangeEnd":527,"text":" ","textLength":1,"docVersion":1418}
+{"t":1794521882773,"file":"auctioneer.cpp","type":"insert","rangeStart":528,"rangeEnd":528,"text":"h","textLength":1,"docVersion":1419}
+{"t":1794521882849,"file":"auctioneer.cpp","type":"insert","rangeStart":529,"rangeEnd":529,"text":"i","textLength":1,"docVersion":1420}
+{"t":1794521882956,"file":"auctioneer.cpp","type":"insert","rangeStart":530,"rangeEnd":530,"text":"g","textLength":1,"docVersion":1421}
+{"t":1794521883028,"file":"auctioneer.cpp","type":"insert","rangeStart":531,"rangeEnd":531,"text":"h","textLength":1,"docVersion":1422}
+{"t":1794521883088,"file":"auctioneer.cpp","type":"insert","rangeStart":532,"rangeEnd":532,"text":"e","textLength":1,"docVersion":1423}
+{"t":1794521883175,"file":"auctioneer.cpp","type":"insert","rangeStart":533,"rangeEnd":533,"text":"s","textLength":1,"docVersion":1424}
+{"t":1794521883272,"file":"auctioneer.cpp","type":"insert","rangeStart":534,"rangeEnd":534,"text":"t","textLength":1,"docVersion":1425}
+{"t":1794521883983,"file":"auctioneer.cpp","type":"insert","rangeStart":535,"rangeEnd":535,"text":"_","textLength":1,"docVersion":1426}
+{"t":1794521884366,"file":"auctioneer.cpp","type":"insert","rangeStart":536,"rangeEnd":536,"text":"b","textLength":1,"docVersion":1427}
+{"t":1794521884441,"file":"auctioneer.cpp","type":"insert","rangeStart":537,"rangeEnd":537,"text":"i","textLength":1,"docVersion":1428}
+{"t":1794521884553,"file":"auctioneer.cpp","type":"insert","rangeStart":538,"rangeEnd":538,"text":"d","textLength":1,"docVersion":1429}
+{"t":1794521884732,"file":"auctioneer.cpp","type":"insert","rangeStart":539,"rangeEnd":539,"text":"d","textLength":1,"docVersion":1430}
+{"t":1794521884782,"file":"auctioneer.cpp","type":"insert","rangeStart":540,"rangeEnd":540,"text":"e","textLength":1,"docVersion":1431}
+{"t":1794521884914,"file":"auctioneer.cpp","type":"insert","rangeStart":541,"rangeEnd":541,"text":"r","textLength":1,"docVersion":1432}
+{"t":1794521886136,"file":"auctioneer.cpp","type":"insert","rangeStart":542,"rangeEnd":542,"text":"s","textLength":1,"docVersion":1433}
+{"t":1794521886435,"file":"auctioneer.cpp","type":"insert","rangeStart":543,"rangeEnd":543,"text":"_","textLength":1,"docVersion":1434}
+{"t":1794521886676,"file":"auctioneer.cpp","type":"insert","rangeStart":544,"rangeEnd":544,"text":"n","textLength":1,"docVersion":1435}
+{"t":1794521886819,"file":"auctioneer.cpp","type":"insert","rangeStart":545,"rangeEnd":545,"text":"a","textLength":1,"docVersion":1436}
+{"t":1794521886925,"file":"auctioneer.cpp","type":"insert","rangeStart":546,"rangeEnd":546,"text":"m","textLength":1,"docVersion":1437}
+{"t":1794521887002,"file":"auctioneer.cpp","type":"insert","rangeStart":547,"rangeEnd":547,"text":"e","textLength":1,"docVersion":1438}
+{"t":1794521887809,"file":"auctioneer.cpp","type":"insert","rangeStart":548,"rangeEnd":548,"text":" ","textLength":1,"docVersion":1439}
+{"t":1794521887924,"file":"auctioneer.cpp","type":"insert","rangeStart":549,"rangeEnd":549,"text":"=","textLength":1,"docVersion":1440}
+{"t":1794521888048,"file":"auctioneer.cpp","type":"insert","rangeStart":550,"rangeEnd":550,"text":" ","textLength":1,"docVersion":1441}
+{"t":1794521888378,"file":"auctioneer.cpp","type":"insert","rangeStart":551,"rangeEnd":551,"text":"\"\"","textLength":2,"docVersion":1442}
+{"t":1794521889482,"file":"auctioneer.cpp","type":"insert","rangeStart":553,"rangeEnd":553,"text":";","textLength":1,"docVersion":1443}
+{"t":1794521898456,"file":"auctioneer.cpp","type":"insert","rangeStart":775,"rangeEnd":775,"text":"\"","textLength":1,"docVersion":1444}
+{"t":1794521898456,"file":"auctioneer.cpp","type":"insert","rangeStart":757,"rangeEnd":757,"text":"\"","textLength":1,"docVersion":1444}
+{"t":1794521898683,"file":"auctioneer.cpp","type":"replace","rangeStart":758,"rangeEnd":776,"text":"S","textLength":1,"docVersion":1445}
+{"t":1794521898937,"file":"auctioneer.cpp","type":"insert","rangeStart":759,"rangeEnd":759,"text":"t","textLength":1,"docVersion":1446}
+{"t":1794521899028,"file":"auctioneer.cpp","type":"insert","rangeStart":760,"rangeEnd":760,"text":"a","textLength":1,"docVersion":1447}
+{"t":1794521899146,"file":"auctioneer.cpp","type":"insert","rangeStart":761,"rangeEnd":761,"text":"r","textLength":1,"docVersion":1448}
+{"t":1794521899581,"file":"auctioneer.cpp","type":"insert","rangeStart":762,"rangeEnd":762,"text":"t","textLength":1,"docVersion":1449}
+{"t":1794521899672,"file":"auctioneer.cpp","type":"insert","rangeStart":763,"rangeEnd":763,"text":"i","textLength":1,"docVersion":1450}
+{"t":1794521899739,"file":"auctioneer.cpp","type":"insert","rangeStart":764,"rangeEnd":764,"text":"n","textLength":1,"docVersion":1451}
+{"t":1794521899826,"file":"auctioneer.cpp","type":"insert","rangeStart":765,"rangeEnd":765,"text":"g","textLength":1,"docVersion":1452}
+{"t":1794521900116,"file":"auctioneer.cpp","type":"insert","rangeStart":766,"rangeEnd":766,"text":" ","textLength":1,"docVersion":1453}
+{"t":1794521900312,"file":"auctioneer.cpp","type":"insert","rangeStart":767,"rangeEnd":767,"text":"b","textLength":1,"docVersion":1454}
+{"t":1794521900424,"file":"auctioneer.cpp","type":"insert","rangeStart":768,"rangeEnd":768,"text":"i","textLength":1,"docVersion":1455}
+{"t":1794521900540,"file":"auctioneer.cpp","type":"insert","rangeStart":769,"rangeEnd":769,"text":"d","textLength":1,"docVersion":1456}
+{"t":1794521904395,"file":"auctioneer.cpp","type":"insert","rangeStart":783,"rangeEnd":783,"text":" ","textLength":1,"docVersion":1457}
+{"t":1794521904618,"file":"auctioneer.cpp","type":"insert","rangeStart":784,"rangeEnd":784,"text":"e","textLength":1,"docVersion":1458}
+{"t":1794521904719,"file":"auctioneer.cpp","type":"insert","rangeStart":785,"rangeEnd":785,"text":"l","textLength":1,"docVersion":1459}
+{"t":1794521904801,"file":"auctioneer.cpp","type":"insert","rangeStart":786,"rangeEnd":786,"text":"s","textLength":1,"docVersion":1460}
+{"t":1794521904866,"file":"auctioneer.cpp","type":"insert","rangeStart":787,"rangeEnd":787,"text":"e","textLength":1,"docVersion":1461}
+{"t":1794521905354,"file":"auctioneer.cpp","type":"insert","rangeStart":788,"rangeEnd":788,"text":" ","textLength":1,"docVersion":1462}
+{"t":1794521905546,"file":"auctioneer.cpp","type":"insert","rangeStart":789,"rangeEnd":789,"text":"{}","textLength":2,"docVersion":1463}
+{"t":1794521905760,"file":"auctioneer.cpp","type":"insert","rangeStart":790,"rangeEnd":790,"text":"\r\n            \r\n        ","textLength":24,"docVersion":1464}
+{"t":1794521914611,"file":"auctioneer.cpp","type":"delete","rangeStart":792,"rangeEnd":804,"text":"","textLength":0,"docVersion":1465}
+{"t":1794521914611,"file":"auctioneer.cpp","type":"replace","rangeStart":748,"rangeEnd":749,"text":"s","textLength":1,"docVersion":1465}
+{"t":1794521915743,"file":"auctioneer.cpp","type":"delete","rangeStart":748,"rangeEnd":749,"text":"","textLength":0,"docVersion":1466}
+{"t":1794521915764,"file":"auctioneer.cpp","type":"insert","rangeStart":748,"rangeEnd":748,"text":"r","textLength":1,"docVersion":1467}
+{"t":1794521915835,"file":"auctioneer.cpp","type":"insert","rangeStart":749,"rangeEnd":749,"text":"s","textLength":1,"docVersion":1468}
+{"t":1794521926807,"file":"auctioneer.cpp","type":"insert","rangeStart":793,"rangeEnd":793,"text":"            ","textLength":12,"docVersion":1469}
+{"t":1794521926994,"file":"auctioneer.cpp","type":"insert","rangeStart":805,"rangeEnd":805,"text":"    ","textLength":4,"docVersion":1470}
+{"t":1794521927532,"file":"auctioneer.cpp","type":"delete","rangeStart":805,"rangeEnd":809,"text":"","textLength":0,"docVersion":1471}
+{"t":1794521928241,"file":"auctioneer.cpp","type":"insert","rangeStart":805,"rangeEnd":805,"text":"h","textLength":1,"docVersion":1472}
+{"t":1794521928316,"file":"auctioneer.cpp","type":"insert","rangeStart":806,"rangeEnd":806,"text":"i","textLength":1,"docVersion":1473}
+{"t":1794521928422,"file":"auctioneer.cpp","type":"insert","rangeStart":807,"rangeEnd":807,"text":"g","textLength":1,"docVersion":1474}
+{"t":1794521928518,"file":"auctioneer.cpp","type":"insert","rangeStart":808,"rangeEnd":808,"text":"h","textLength":1,"docVersion":1475}
+{"t":1794521928628,"file":"auctioneer.cpp","type":"insert","rangeStart":809,"rangeEnd":809,"text":"e","textLength":1,"docVersion":1476}
+{"t":1794521928715,"file":"auctioneer.cpp","type":"insert","rangeStart":810,"rangeEnd":810,"text":"s","textLength":1,"docVersion":1477}
+{"t":1794521928819,"file":"auctioneer.cpp","type":"insert","rangeStart":811,"rangeEnd":811,"text":"t","textLength":1,"docVersion":1478}
+{"t":1794521930017,"file":"auctioneer.cpp","type":"insert","rangeStart":812,"rangeEnd":812,"text":"_","textLength":1,"docVersion":1479}
+{"t":1794521930240,"file":"auctioneer.cpp","type":"insert","rangeStart":813,"rangeEnd":813,"text":"b","textLength":1,"docVersion":1480}
+{"t":1794521930318,"file":"auctioneer.cpp","type":"insert","rangeStart":814,"rangeEnd":814,"text":"i","textLength":1,"docVersion":1481}
+{"t":1794521930393,"file":"auctioneer.cpp","type":"insert","rangeStart":815,"rangeEnd":815,"text":"d","textLength":1,"docVersion":1482}
+{"t":1794521930555,"file":"auctioneer.cpp","type":"insert","rangeStart":816,"rangeEnd":816,"text":"d","textLength":1,"docVersion":1483}
+{"t":1794521930611,"file":"auctioneer.cpp","type":"insert","rangeStart":817,"rangeEnd":817,"text":"e","textLength":1,"docVersion":1484}
+{"t":1794521930731,"file":"auctioneer.cpp","type":"insert","rangeStart":818,"rangeEnd":818,"text":"r","textLength":1,"docVersion":1485}
+{"t":1794521930904,"file":"auctioneer.cpp","type":"insert","rangeStart":819,"rangeEnd":819,"text":"s","textLength":1,"docVersion":1486}
+{"t":1794521931315,"file":"auctioneer.cpp","type":"insert","rangeStart":820,"rangeEnd":820,"text":"_","textLength":1,"docVersion":1487}
+{"t":1794521931553,"file":"auctioneer.cpp","type":"insert","rangeStart":821,"rangeEnd":821,"text":"n","textLength":1,"docVersion":1488}
+{"t":1794521931624,"file":"auctioneer.cpp","type":"insert","rangeStart":822,"rangeEnd":822,"text":"a","textLength":1,"docVersion":1489}
+{"t":1794521931721,"file":"auctioneer.cpp","type":"insert","rangeStart":823,"rangeEnd":823,"text":"m","textLength":1,"docVersion":1490}
+{"t":1794521931785,"file":"auctioneer.cpp","type":"insert","rangeStart":824,"rangeEnd":824,"text":"e","textLength":1,"docVersion":1491}
+{"t":1794521932298,"file":"auctioneer.cpp","type":"insert","rangeStart":825,"rangeEnd":825,"text":" ","textLength":1,"docVersion":1492}
+{"t":1794521932452,"file":"auctioneer.cpp","type":"insert","rangeStart":826,"rangeEnd":826,"text":"=","textLength":1,"docVersion":1493}
+{"t":1794521932530,"file":"auctioneer.cpp","type":"insert","rangeStart":827,"rangeEnd":827,"text":" ","textLength":1,"docVersion":1494}
+{"t":1794521932736,"file":"auctioneer.cpp","type":"insert","rangeStart":828,"rangeEnd":828,"text":"h","textLength":1,"docVersion":1495}
+{"t":1794521932769,"file":"auctioneer.cpp","type":"insert","rangeStart":829,"rangeEnd":829,"text":"i","textLength":1,"docVersion":1496}
+{"t":1794521932976,"file":"auctioneer.cpp","type":"insert","rangeStart":830,"rangeEnd":830,"text":"g","textLength":1,"docVersion":1497}
+{"t":1794521933323,"file":"auctioneer.cpp","type":"insert","rangeStart":831,"rangeEnd":831,"text":"h","textLength":1,"docVersion":1498}
+{"t":1794521933433,"file":"auctioneer.cpp","type":"insert","rangeStart":832,"rangeEnd":832,"text":"e","textLength":1,"docVersion":1499}
+{"t":1794521933510,"file":"auctioneer.cpp","type":"insert","rangeStart":833,"rangeEnd":833,"text":"s","textLength":1,"docVersion":1500}
+{"t":1794521933606,"file":"auctioneer.cpp","type":"insert","rangeStart":834,"rangeEnd":834,"text":"t","textLength":1,"docVersion":1501}
+{"t":1794521934204,"file":"auctioneer.cpp","type":"insert","rangeStart":835,"rangeEnd":835,"text":"_","textLength":1,"docVersion":1502}
+{"t":1794521934434,"file":"auctioneer.cpp","type":"insert","rangeStart":836,"rangeEnd":836,"text":"b","textLength":1,"docVersion":1503}
+{"t":1794521934536,"file":"auctioneer.cpp","type":"insert","rangeStart":837,"rangeEnd":837,"text":"i","textLength":1,"docVersion":1504}
+{"t":1794521934652,"file":"auctioneer.cpp","type":"insert","rangeStart":838,"rangeEnd":838,"text":"d","textLength":1,"docVersion":1505}
+{"t":1794521934843,"file":"auctioneer.cpp","type":"insert","rangeStart":839,"rangeEnd":839,"text":"d","textLength":1,"docVersion":1506}
+{"t":1794521934947,"file":"auctioneer.cpp","type":"insert","rangeStart":840,"rangeEnd":840,"text":"e","textLength":1,"docVersion":1507}
+{"t":1794521935045,"file":"auctioneer.cpp","type":"insert","rangeStart":841,"rangeEnd":841,"text":"r","textLength":1,"docVersion":1508}
+{"t":1794521936076,"file":"auctioneer.cpp","type":"insert","rangeStart":842,"rangeEnd":842,"text":"-","textLength":1,"docVersion":1509}
+{"t":1794521936255,"file":"auctioneer.cpp","type":"insert","rangeStart":843,"rangeEnd":843,"text":">","textLength":1,"docVersion":1510}
+{"t":1794521936518,"file":"auctioneer.cpp","type":"insert","rangeStart":844,"rangeEnd":844,"text":"g","textLength":1,"docVersion":1511}
+{"t":1794521936589,"file":"auctioneer.cpp","type":"insert","rangeStart":845,"rangeEnd":845,"text":"e","textLength":1,"docVersion":1512}
+{"t":1794521936686,"file":"auctioneer.cpp","type":"insert","rangeStart":846,"rangeEnd":846,"text":"t","textLength":1,"docVersion":1513}
+{"t":1794521936929,"file":"auctioneer.cpp","type":"insert","rangeStart":847,"rangeEnd":847,"text":"_","textLength":1,"docVersion":1514}
+{"t":1794521937155,"file":"auctioneer.cpp","type":"insert","rangeStart":848,"rangeEnd":848,"text":"n","textLength":1,"docVersion":1515}
+{"t":1794521937225,"file":"auctioneer.cpp","type":"insert","rangeStart":849,"rangeEnd":849,"text":"a","textLength":1,"docVersion":1516}
+{"t":1794521937332,"file":"auctioneer.cpp","type":"insert","rangeStart":850,"rangeEnd":850,"text":"m","textLength":1,"docVersion":1517}
+{"t":1794521937379,"file":"auctioneer.cpp","type":"insert","rangeStart":851,"rangeEnd":851,"text":"e","textLength":1,"docVersion":1518}
+{"t":1794521937602,"file":"auctioneer.cpp","type":"insert","rangeStart":852,"rangeEnd":852,"text":"()","textLength":2,"docVersion":1519}
+{"t":1794521937657,"file":"auctioneer.cpp","type":"replace","rangeStart":853,"rangeEnd":854,"text":")","textLength":1,"docVersion":1520}
+{"t":1794521938524,"file":"auctioneer.cpp","type":"insert","rangeStart":854,"rangeEnd":854,"text":";","textLength":1,"docVersion":1521}
+{"t":1794521944383,"file":"auctioneer.cpp","type":"file-save"}
+{"t":1794521946596,"file":"auctioneer.cpp","type":"delete","rangeStart":1108,"rangeEnd":1109,"text":"","textLength":0,"docVersion":1522}
+{"t":1794521946765,"file":"auctioneer.cpp","type":"delete","rangeStart":1107,"rangeEnd":1108,"text":"","textLength":0,"docVersion":1523}
+{"t":1794521946931,"file":"auctioneer.cpp","type":"delete","rangeStart":1106,"rangeEnd":1107,"text":"","textLength":0,"docVersion":1524}
+{"t":1794521947368,"file":"auctioneer.cpp","type":"insert","rangeStart":1106,"rangeEnd":1106,"text":"h","textLength":1,"docVersion":1525}
+{"t":1794521947419,"file":"auctioneer.cpp","type":"insert","rangeStart":1107,"rangeEnd":1107,"text":"e","textLength":1,"docVersion":1526}
+{"t":1794521947474,"file":"auctioneer.cpp","type":"insert","rangeStart":1108,"rangeEnd":1108,"text":"s","textLength":1,"docVersion":1527}
+{"t":1794521948898,"file":"auctioneer.cpp","type":"insert","rangeStart":1117,"rangeEnd":1117,"text":"s","textLength":1,"docVersion":1528}
+{"t":1794521951059,"file":"auctioneer.cpp","type":"file-save"}
+{"t":1794521952883,"file":"auctioneer.cpp","type":"window-blur"}
+{"t":1794521988833,"file":"auctioneer.cpp","type":"window-focus"}
