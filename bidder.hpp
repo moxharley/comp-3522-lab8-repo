@@ -43,4 +43,8 @@ public:
     string get_name() {
         return name;
     }
+
+    double get_highest() {
+        return highest_bid;
+    }
 };
